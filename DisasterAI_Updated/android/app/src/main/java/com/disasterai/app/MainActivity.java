@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 
     // ✅ Change this URL after deploying your backend to Railway/Render
     // For local testing on same WiFi: use your PC's IP e.g. "http://192.168.1.5:8000"
-    private static final String BACKEND_URL = "https://YOUR-APP.railway.app";
+    private static final String BACKEND_URL = "https://disaster-ai-production.up.railway.app";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
