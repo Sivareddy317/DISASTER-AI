@@ -1,0 +1,726 @@
+{
+  "city": "Chennai",
+  "stage": 1,
+  "messages": [
+    {
+      "message_id": "1_whatsapp_025",
+      "timestamp": "2026-10-07T08:12:24",
+      "sender": "local_admin",
+      "text": "Adyar river-side road lo flood water full ga undi. approximately 15 people affected. తాగునీటి ప్యాకెట్లు కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_022",
+      "timestamp": "2026-10-07T08:12:57",
+      "sender": "local_admin",
+      "text": "సార్ పరిస్థితి ఇప్పుడు ఇంకా seriousగా ఉంది. behind the IT corridor service lane. approximately 9 people. రెస్క్యూ బోట్ కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_028",
+      "timestamp": "2026-10-07T08:24:45",
+      "sender": "volunteer_813",
+      "text": "bus stop after Perungudi MRTS lo flood water full ga undi. approximately 3 people affected. ఇన్సులిన్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_071",
+      "timestamp": "2026-10-07T08:28:00",
+      "sender": "community_948",
+      "text": "Power is gone but nobody is trapped here."
+    },
+    {
+      "message_id": "1_whatsapp_noise_065",
+      "timestamp": "2026-10-07T09:01:52",
+      "sender": "resident_598",
+      "text": "Will the rain continue overnight?"
+    },
+    {
+      "message_id": "1_whatsapp_044",
+      "timestamp": "2026-10-07T08:43:43",
+      "sender": "volunteer_239",
+      "text": "Nanganallur low-lying street lo flood water full ga undi. approximately 2 people affected. మెడికల్ టీమ్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_068",
+      "timestamp": "2026-10-07T08:53:36",
+      "sender": "local_admin",
+      "text": "Can I get the official rainfall warning?"
+    },
+    {
+      "message_id": "1_whatsapp_031",
+      "timestamp": "2026-10-07T08:27:30",
+      "sender": "volunteer_509",
+      "text": "అన్నా ఇది కొత్త complaint కాదు. under the Saidapet station footbridge. approximately 40 people. ఫుడ్ ప్యాకెట్లు కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_003",
+      "timestamp": "2026-10-07T08:01:02",
+      "sender": "community_782",
+      "text": "Emergency at Nanganallur fourth street. approximately 2 people reported. medical assistance / insulin required."
+    },
+    {
+      "message_id": "1_whatsapp_042",
+      "timestamp": "2026-10-07T08:37:35",
+      "sender": "community_906",
+      "text": "అన్నా ఇది emergency update. station waiting hall. approximately 40 people. తినడానికి ready food కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_024",
+      "timestamp": "2026-10-07T08:22:14",
+      "sender": "community_234",
+      "text": "low-lying road near Adyar lo flood water full ga undi. approximately 15 people affected. water packets పంపండి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_020",
+      "timestamp": "2026-10-07T08:14:15",
+      "sender": "local_admin",
+      "text": "Emergency at west side of Velachery station. approximately 4 people reported. medical assistance / insulin required."
+    },
+    {
+      "message_id": "1_whatsapp_054",
+      "timestamp": "2026-10-07T08:21:12",
+      "sender": "local_admin",
+      "text": "station backside road lo flood water full ga undi. approximately 12 people affected. ఫైర్ సర్వీస్ పంపండి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_034",
+      "timestamp": "2026-10-07T08:12:39",
+      "sender": "resident_692",
+      "text": "అన్నా ఇది emergency update. near the Medavakkam water tank. approximately 7 people. రెస్క్యూ బోట్ కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_060",
+      "timestamp": "2026-10-07T08:51:08",
+      "sender": "resident_112",
+      "text": "దయచేసి వెంటనే response పంపండి. near Taramani MRTS side road. approximately 9 people. NDRF boat పంపండి."
+    },
+    {
+      "message_id": "1_whatsapp_noise_083",
+      "timestamp": "2026-10-07T08:36:54",
+      "sender": "local_admin",
+      "text": "Need traffic information for Guindy."
+    },
+    {
+      "message_id": "1_whatsapp_008",
+      "timestamp": "2026-10-07T08:04:26",
+      "sender": "resident_580",
+      "text": "Emergency at Taramani residential pocket. approximately 9 people reported. rescue boat required."
+    },
+    {
+      "message_id": "1_whatsapp_062",
+      "timestamp": "2026-10-07T08:26:26",
+      "sender": "volunteer_548",
+      "text": "Pallikaranai marsh-side road lo flood water full ga undi. approximately 18 people affected. clean drinking water urgently కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_093",
+      "timestamp": "2026-10-07T09:32:00",
+      "sender": "resident_541",
+      "text": "Is the road to the airport open?"
+    },
+    {
+      "message_id": "1_whatsapp_noise_087",
+      "timestamp": "2026-10-07T08:55:54",
+      "sender": "resident_656",
+      "text": "Are schools closed tomorrow?"
+    },
+    {
+      "message_id": "1_whatsapp_019",
+      "timestamp": "2026-10-07T08:13:48",
+      "sender": "resident_355",
+      "text": "సార్ ముందు ఇచ్చిన reportకి ఇది continuation. station backside road. approximately 12 people. ఫైర్ టెండర్ వెంటనే కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_rumor_099",
+      "timestamp": "2026-10-07T08:52:16",
+      "sender": "local_admin",
+      "text": "Forwarded message with no source says every hospital is full."
+    },
+    {
+      "message_id": "1_whatsapp_020",
+      "timestamp": "2026-10-07T08:14:15",
+      "sender": "local_admin",
+      "text": "Emergency at west side of Velachery station. approximately 4 people reported. medical assistance / insulin required."
+    },
+    {
+      "message_id": "1_whatsapp_059",
+      "timestamp": "2026-10-07T08:34:48",
+      "sender": "community_939",
+      "text": "సార్ ముందు ఇచ్చిన reportకి ఇది continuation. behind the river bund. approximately 15 people. clean drinking water urgently కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_055",
+      "timestamp": "2026-10-07T08:30:36",
+      "sender": "local_admin",
+      "text": "Emergency at behind the neighbourhood temple. approximately 35 people reported. food packets / dry ration required."
+    },
+    {
+      "message_id": "1_whatsapp_027",
+      "timestamp": "2026-10-07T08:15:10",
+      "sender": "resident_819",
+      "text": "near the Vijayanagar side road lo flood water full ga undi. approximately 4 people affected. diabetic patientకి medical help కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_036",
+      "timestamp": "2026-10-07T08:17:30",
+      "sender": "community_417",
+      "text": "Perungudi station service road lo flood water full ga undi. approximately 3 people affected. diabetic patientకి medical help కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_038",
+      "timestamp": "2026-10-07T08:20:58",
+      "sender": "community_611",
+      "text": "సార్ పరిస్థితి ఇప్పుడు ఇంకా seriousగా ఉంది. near the residential lane by the river. approximately 15 people. clean drinking water urgently కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_noise_091",
+      "timestamp": "2026-10-07T09:19:30",
+      "sender": "local_admin",
+      "text": "Is OMR traffic moving right now?"
+    },
+    {
+      "message_id": "1_whatsapp_043",
+      "timestamp": "2026-10-07T08:28:42",
+      "sender": "resident_620",
+      "text": "సార్ ముందు ఇచ్చిన reportకి ఇది continuation. residential lane near water tank. approximately 7 people. రెస్క్యూ బోట్ కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_noise_070",
+      "timestamp": "2026-10-07T08:40:15",
+      "sender": "local_admin",
+      "text": "Anybody knows if the petrol bunk is functioning?"
+    },
+    {
+      "message_id": "1_whatsapp_041",
+      "timestamp": "2026-10-07T08:22:40",
+      "sender": "volunteer_249",
+      "text": "Emergency at service road near the IT buildings. approximately 20 people reported. drinking water packets required."
+    },
+    {
+      "message_id": "1_whatsapp_rumor_096",
+      "timestamp": "2026-10-07T08:41:10",
+      "sender": "volunteer_701",
+      "text": "Forwarded: every school in Chennai is closed for a full week."
+    },
+    {
+      "message_id": "1_whatsapp_013",
+      "timestamp": "2026-10-07T08:10:24",
+      "sender": "resident_662",
+      "text": "near the Vijayanagar side road lo flood water full ga undi. approximately 4 people affected. ఇన్సులిన్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_rumor_097",
+      "timestamp": "2026-10-07T09:16:48",
+      "sender": "local_admin",
+      "text": "Unverified message says all railway stations are being evacuated."
+    },
+    {
+      "message_id": "1_whatsapp_009",
+      "timestamp": "2026-10-07T08:05:12",
+      "sender": "local_admin",
+      "text": "Emergency at near the Vijayanagar side road. approximately 4 people reported. medical assistance / insulin required."
+    },
+    {
+      "message_id": "1_whatsapp_052",
+      "timestamp": "2026-10-07T08:48:27",
+      "sender": "local_admin",
+      "text": "under the Saidapet station footbridge lo flood water full ga undi. approximately 40 people affected. ఫుడ్ ప్యాకెట్లు కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_029",
+      "timestamp": "2026-10-07T08:14:56",
+      "sender": "community_236",
+      "text": "bus stop after Perungudi MRTS lo flood water full ga undi. approximately 3 people affected. మెడికల్ టీమ్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_037",
+      "timestamp": "2026-10-07T08:30:36",
+      "sender": "local_admin",
+      "text": "Emergency at near the Adyar bridge approach. approximately 15 people reported. drinking water packets required."
+    },
+    {
+      "message_id": "1_whatsapp_028",
+      "timestamp": "2026-10-07T08:24:45",
+      "sender": "community_185",
+      "text": "bus stop after Perungudi MRTS lo flood water full ga undi. approximately 3 people affected. ఇన్సులిన్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_072",
+      "timestamp": "2026-10-07T08:57:59",
+      "sender": "volunteer_994",
+      "text": "Is the road to the airport open?"
+    },
+    {
+      "message_id": "1_whatsapp_REFWD_008",
+      "timestamp": "2026-10-07T08:16:20",
+      "sender": "community_504",
+      "text": "low-lying colony road lo flood water full ga undi. approximately 35 people affected. తినడానికి ready food కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_089",
+      "timestamp": "2026-10-07T09:29:28",
+      "sender": "volunteer_884",
+      "text": "Just looking for traffic information."
+    },
+    {
+      "message_id": "1_whatsapp_039",
+      "timestamp": "2026-10-07T08:16:28",
+      "sender": "volunteer_867",
+      "text": "అన్నా ఇది కొత్త complaint కాదు. under the Saidapet station footbridge. approximately 40 people. తినడానికి ready food కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_noise_092",
+      "timestamp": "2026-10-07T09:23:25",
+      "sender": "community_619",
+      "text": "Is the market near Velachery open?"
+    },
+    {
+      "message_id": "1_whatsapp_032",
+      "timestamp": "2026-10-07T08:23:46",
+      "sender": "community_966",
+      "text": "Emergency at low-lying road near Taramani. approximately 9 people reported. rescue boat required."
+    },
+    {
+      "message_id": "1_whatsapp_noise_086",
+      "timestamp": "2026-10-07T09:10:50",
+      "sender": "resident_628",
+      "text": "Is Saidapet traffic diverted?"
+    },
+    {
+      "message_id": "1_whatsapp_REFWD_014",
+      "timestamp": "2026-10-07T08:23:46",
+      "sender": "volunteer_815",
+      "text": "Emergency at low-lying road near Taramani. approximately 9 people reported. rescue boat required."
+    },
+    {
+      "message_id": "1_whatsapp_rumor_100",
+      "timestamp": "2026-10-07T09:27:27",
+      "sender": "volunteer_592",
+      "text": "FORWARDED: Chennai will receive another 500mm rain exactly at midnight."
+    },
+    {
+      "message_id": "1_whatsapp_rumor_095",
+      "timestamp": "2026-10-07T09:21:28",
+      "sender": "resident_512",
+      "text": "Someone says cyclone warning has already been issued for tonight."
+    },
+    {
+      "message_id": "1_whatsapp_REFWD_012",
+      "timestamp": "2026-10-07T08:36:48",
+      "sender": "volunteer_266",
+      "text": "అన్నా ఇది కొత్త complaint కాదు. behind the market lane. approximately 2 people. మెడికల్ టీమ్ కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_016",
+      "timestamp": "2026-10-07T08:13:45",
+      "sender": "volunteer_144",
+      "text": "Emergency at marsh backside houses. approximately 18 people reported. drinking water packets required."
+    },
+    {
+      "message_id": "1_whatsapp_noise_074",
+      "timestamp": "2026-10-07T08:29:12",
+      "sender": "community_549",
+      "text": "No emergency here, only asking about road conditions."
+    },
+    {
+      "message_id": "1_whatsapp_REFWD_010",
+      "timestamp": "2026-10-07T08:02:45",
+      "sender": "community_917",
+      "text": "సార్ పరిస్థితి ఇప్పుడు ఇంకా seriousగా ఉంది. Nanganallur fourth street. approximately 2 people. diabetic patientకి medical help కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_018",
+      "timestamp": "2026-10-07T08:08:47",
+      "sender": "community_761",
+      "text": "Emergency at Guindy low-lying lane. approximately 8 people reported. fire tender required."
+    },
+    {
+      "message_id": "1_whatsapp_015",
+      "timestamp": "2026-10-07T08:12:08",
+      "sender": "volunteer_805",
+      "text": "Taramani service road lo flood water full ga undi. approximately 9 people affected. NDRF boat పంపండి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_malformed_103",
+      "timestamp": null,
+      "sender": "community_684",
+      "text": ""
+    },
+    {
+      "message_id": "1_whatsapp_026",
+      "timestamp": "2026-10-07T08:22:30",
+      "sender": "resident_912",
+      "text": "Taramani residential pocket lo flood water full ga undi. approximately 9 people affected. బోటు లేకుండా బయటికి రావడం కుదరదు. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_061",
+      "timestamp": "2026-10-07T08:58:00",
+      "sender": "local_admin",
+      "text": "Emergency at behind the river bund. approximately 15 people reported. drinking water packets required."
+    },
+    {
+      "message_id": "1_whatsapp_033",
+      "timestamp": "2026-10-07T08:21:52",
+      "sender": "community_716",
+      "text": "Guindy low-lying lane lo flood water full ga undi. approximately 8 people affected. ఫైర్ సర్వీస్ పంపండి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_012",
+      "timestamp": "2026-10-07T08:04:24",
+      "sender": "community_934",
+      "text": "Nanganallur fourth street lo flood water full ga undi. approximately 2 people affected. diabetic patientకి medical help కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_063",
+      "timestamp": "2026-10-07T09:00:58",
+      "sender": "community_857",
+      "text": "Pallikaranai waterlogged pocket lo flood water full ga undi. approximately 18 people affected. water packets పంపండి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_076",
+      "timestamp": "2026-10-07T08:43:45",
+      "sender": "volunteer_299",
+      "text": "Is the road to the airport open?"
+    },
+    {
+      "message_id": "1_whatsapp_noise_085",
+      "timestamp": "2026-10-07T09:14:12",
+      "sender": "volunteer_856",
+      "text": "Can somebody confirm office closure information?"
+    },
+    {
+      "message_id": "1_whatsapp_011",
+      "timestamp": "2026-10-07T08:04:20",
+      "sender": "community_289",
+      "text": "marsh backside houses lo flood water full ga undi. approximately 18 people affected. clean drinking water urgently కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_047",
+      "timestamp": "2026-10-07T08:36:48",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది కొత్త complaint కాదు. behind the market lane. approximately 2 people. మెడికల్ టీమ్ కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_058",
+      "timestamp": "2026-10-07T08:22:48",
+      "sender": "resident_633",
+      "text": "railway station entrance side lo flood water full ga undi. approximately 40 people affected. ఫుడ్ ప్యాకెట్లు కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_053",
+      "timestamp": "2026-10-07T08:45:56",
+      "sender": "local_admin",
+      "text": "service road near the IT buildings lo flood water full ga undi. approximately 20 people affected. clean drinking water urgently కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_051",
+      "timestamp": "2026-10-07T08:37:30",
+      "sender": "local_admin",
+      "text": "సార్ ముందు ఇచ్చిన reportకి ఇది continuation. station approach road. approximately 12 people. ఫైర్ సర్వీస్ పంపండి."
+    },
+    {
+      "message_id": "1_whatsapp_noise_088",
+      "timestamp": "2026-10-07T09:19:45",
+      "sender": "volunteer_823",
+      "text": "Anyone travelling toward Tambaram?"
+    },
+    {
+      "message_id": "1_whatsapp_030",
+      "timestamp": "2026-10-07T08:14:59",
+      "sender": "resident_682",
+      "text": "సార్ పరిస్థితి ఇప్పుడు ఇంకా seriousగా ఉంది. behind Sanatorium railway station. approximately 12 people. ఫైర్ సర్వీస్ పంపండి."
+    },
+    {
+      "message_id": "1_whatsapp_001",
+      "timestamp": "2026-10-07T08:00:00",
+      "sender": "community_952",
+      "text": "residential lane beside the wetland lo flood water full ga undi. approximately 18 people affected. తాగునీటి ప్యాకెట్లు కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_069",
+      "timestamp": "2026-10-07T08:45:20",
+      "sender": "volunteer_201",
+      "text": "Need weather information only."
+    },
+    {
+      "message_id": "1_whatsapp_005",
+      "timestamp": "2026-10-07T08:02:20",
+      "sender": "resident_634",
+      "text": "అయ్యా మళ్లీ అదే location నుంచి మాట్లాడుతున్నాను. Madipakkam residential colony. approximately 35 people. డ్రై రేషన్ అవసరం."
+    },
+    {
+      "message_id": "1_whatsapp_049",
+      "timestamp": "2026-10-07T08:31:12",
+      "sender": "resident_820",
+      "text": "behind the river bund lo flood water full ga undi. approximately 15 people affected. తాగునీటి ప్యాకెట్లు కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_045",
+      "timestamp": "2026-10-07T08:19:48",
+      "sender": "resident_760",
+      "text": "Emergency at near Perungudi MRTS. approximately 3 people reported. medical assistance / insulin required."
+    },
+    {
+      "message_id": "1_whatsapp_060",
+      "timestamp": "2026-10-07T08:51:08",
+      "sender": "resident_573",
+      "text": "దయచేసి వెంటనే response పంపండి. near Taramani MRTS side road. approximately 9 people. NDRF boat పంపండి."
+    },
+    {
+      "message_id": "1_whatsapp_044",
+      "timestamp": "2026-10-07T08:43:43",
+      "sender": "local_admin",
+      "text": "Nanganallur low-lying street lo flood water full ga undi. approximately 2 people affected. మెడికల్ టీమ్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_010",
+      "timestamp": "2026-10-07T08:03:54",
+      "sender": "resident_153",
+      "text": "అన్నా ఇది emergency update. near the bus stop road. approximately 2 people. ఇన్సులిన్ కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_noise_077",
+      "timestamp": "2026-10-07T08:32:56",
+      "sender": "volunteer_285",
+      "text": "Is the metro service delayed?"
+    },
+    {
+      "message_id": "1_whatsapp_noise_081",
+      "timestamp": "2026-10-07T08:45:20",
+      "sender": "resident_337",
+      "text": "Anyone travelling toward Tambaram?"
+    },
+    {
+      "message_id": "1_whatsapp_noise_073",
+      "timestamp": "2026-10-07T08:48:00",
+      "sender": "resident_798",
+      "text": "Does anyone know the current train timing?"
+    },
+    {
+      "message_id": "1_whatsapp_040",
+      "timestamp": "2026-10-07T08:25:21",
+      "sender": "volunteer_382",
+      "text": "station backside road lo flood water full ga undi. approximately 4 people affected. ఇన్సులిన్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_021",
+      "timestamp": "2026-10-07T08:16:20",
+      "sender": "local_admin",
+      "text": "low-lying colony road lo flood water full ga undi. approximately 35 people affected. తినడానికి ready food కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_082",
+      "timestamp": "2026-10-07T09:14:15",
+      "sender": "resident_263",
+      "text": "Can somebody confirm office closure information?"
+    },
+    {
+      "message_id": "1_whatsapp_malformed_104",
+      "timestamp": null,
+      "sender": "resident_799",
+      "text": "BAD RECORD"
+    },
+    {
+      "message_id": "1_whatsapp_046",
+      "timestamp": "2026-10-07T08:27:00",
+      "sender": "volunteer_830",
+      "text": "Nanganallur fourth street lo flood water full ga undi. approximately 2 people affected. ఇన్సులిన్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_078",
+      "timestamp": "2026-10-07T09:14:26",
+      "sender": "local_admin",
+      "text": "Is the metro service delayed?"
+    },
+    {
+      "message_id": "1_whatsapp_014",
+      "timestamp": "2026-10-07T08:05:38",
+      "sender": "community_339",
+      "text": "Emergency at near the EB side. approximately 12 people reported. fire tender required."
+    },
+    {
+      "message_id": "1_whatsapp_malformed_106",
+      "timestamp": null,
+      "sender": "community_267",
+      "text": "???? ??? ?????"
+    },
+    {
+      "message_id": "1_whatsapp_REFWD_013",
+      "timestamp": "2026-10-07T08:19:48",
+      "sender": "community_854",
+      "text": "Emergency at near Perungudi MRTS. approximately 3 people reported. medical assistance / insulin required."
+    },
+    {
+      "message_id": "1_whatsapp_malformed_102",
+      "timestamp": null,
+      "sender": "community_924",
+      "text": null
+    },
+    {
+      "message_id": "1_whatsapp_056",
+      "timestamp": "2026-10-07T08:30:15",
+      "sender": "community_461",
+      "text": "Emergency at industrial estate side road. approximately 8 people reported. fire tender required."
+    },
+    {
+      "message_id": "1_whatsapp_017",
+      "timestamp": "2026-10-07T08:09:52",
+      "sender": "resident_532",
+      "text": "Nanganallur low-lying street lo flood water full ga undi. approximately 2 people affected. మెడికల్ టీమ్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_066",
+      "timestamp": "2026-10-07T08:31:25",
+      "sender": "local_admin",
+      "text": "Any idea whether buses are running normally?"
+    },
+    {
+      "message_id": "1_whatsapp_malformed_105",
+      "timestamp": null,
+      "sender": "community_776",
+      "text": "Missing timestamp and sender"
+    },
+    {
+      "message_id": "1_whatsapp_007",
+      "timestamp": "2026-10-07T08:03:30",
+      "sender": "resident_344",
+      "text": "Emergency at behind the Medavakkam government school. approximately 7 people reported. rescue boat required."
+    },
+    {
+      "message_id": "1_whatsapp_rumor_101",
+      "timestamp": "2026-10-07T09:08:20",
+      "sender": "volunteer_467",
+      "text": "Forwarded message with no source says every hospital is full."
+    },
+    {
+      "message_id": "1_whatsapp_054",
+      "timestamp": "2026-10-07T08:21:12",
+      "sender": "resident_868",
+      "text": "station backside road lo flood water full ga undi. approximately 12 people affected. ఫైర్ సర్వీస్ పంపండి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_006",
+      "timestamp": "2026-10-07T08:02:45",
+      "sender": "local_admin",
+      "text": "సార్ పరిస్థితి ఇప్పుడు ఇంకా seriousగా ఉంది. Nanganallur fourth street. approximately 2 people. diabetic patientకి medical help కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_052",
+      "timestamp": "2026-10-07T08:48:27",
+      "sender": "community_951",
+      "text": "under the Saidapet station footbridge lo flood water full ga undi. approximately 40 people affected. ఫుడ్ ప్యాకెట్లు కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_rumor_098",
+      "timestamp": "2026-10-07T09:33:46",
+      "sender": "volunteer_113",
+      "text": "Forwarded message with no source says every hospital is full."
+    },
+    {
+      "message_id": "1_whatsapp_004",
+      "timestamp": "2026-10-07T08:01:27",
+      "sender": "local_admin",
+      "text": "Guindy low-lying lane lo flood water full ga undi. approximately 8 people affected. ఫైర్ టెండర్ వెంటనే కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_050",
+      "timestamp": "2026-10-07T08:41:39",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది emergency update. low-lying road off OMR. approximately 20 people. clean drinking water urgently కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_noise_094",
+      "timestamp": "2026-10-07T09:22:09",
+      "sender": "community_367",
+      "text": "Anyone travelling toward Tambaram?"
+    },
+    {
+      "message_id": "1_whatsapp_REFWD_011",
+      "timestamp": "2026-10-07T08:30:36",
+      "sender": "volunteer_429",
+      "text": "Emergency at behind the neighbourhood temple. approximately 35 people reported. food packets / dry ration required."
+    },
+    {
+      "message_id": "1_whatsapp_035",
+      "timestamp": "2026-10-07T08:32:52",
+      "sender": "resident_339",
+      "text": "MRTS west exit lo flood water full ga undi. approximately 4 people affected. మెడికల్ టీమ్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_064",
+      "timestamp": "2026-10-07T08:44:06",
+      "sender": "volunteer_975",
+      "text": "Taramani residential pocket lo flood water full ga undi. approximately 9 people affected. రెస్క్యూ బోట్ కావాలి. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_067",
+      "timestamp": "2026-10-07T08:39:36",
+      "sender": "volunteer_899",
+      "text": "Anybody knows if the petrol bunk is functioning?"
+    },
+    {
+      "message_id": "1_whatsapp_048",
+      "timestamp": "2026-10-07T08:41:31",
+      "sender": "community_325",
+      "text": "Emergency at behind the river bund. approximately 15 people reported. drinking water packets required."
+    },
+    {
+      "message_id": "1_whatsapp_002",
+      "timestamp": "2026-10-07T08:00:59",
+      "sender": "volunteer_498",
+      "text": "అన్నా ఇది emergency update. low-lying road off OMR. approximately 20 people. clean drinking water urgently కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_057",
+      "timestamp": "2026-10-07T08:21:28",
+      "sender": "local_admin",
+      "text": "సార్ దయచేసి మా లొకేషన్ నోట్ చేయండి. station backside road. approximately 4 people. diabetic patientకి medical help కావాలి."
+    },
+    {
+      "message_id": "1_whatsapp_REFWD_009",
+      "timestamp": "2026-10-07T08:13:45",
+      "sender": "community_577",
+      "text": "Emergency at marsh backside houses. approximately 18 people reported. drinking water packets required."
+    },
+    {
+      "message_id": "1_whatsapp_noise_075",
+      "timestamp": "2026-10-07T08:32:04",
+      "sender": "resident_405",
+      "text": "Any idea whether buses are running normally?"
+    },
+    {
+      "message_id": "1_whatsapp_003",
+      "timestamp": "2026-10-07T08:01:02",
+      "sender": "resident_882",
+      "text": "Emergency at Nanganallur fourth street. approximately 2 people reported. medical assistance / insulin required."
+    },
+    {
+      "message_id": "1_whatsapp_noise_079",
+      "timestamp": "2026-10-07T09:05:00",
+      "sender": "community_362",
+      "text": "Just looking for traffic information."
+    },
+    {
+      "message_id": "1_whatsapp_023",
+      "timestamp": "2026-10-07T08:15:02",
+      "sender": "resident_180",
+      "text": "Madipakkam fourth cross street lo flood water full ga undi. approximately 35 people affected. డ్రై రేషన్ అవసరం. Please help."
+    },
+    {
+      "message_id": "1_whatsapp_noise_084",
+      "timestamp": "2026-10-07T09:07:47",
+      "sender": "local_admin",
+      "text": "Is internet service down in this area?"
+    },
+    {
+      "message_id": "1_whatsapp_noise_080",
+      "timestamp": "2026-10-07T09:01:53",
+      "sender": "community_371",
+      "text": "Are schools closed tomorrow?"
+    },
+    {
+      "message_id": "1_whatsapp_noise_090",
+      "timestamp": "2026-10-07T09:23:04",
+      "sender": "resident_628",
+      "text": "Is the road to the airport open?"
+    }
+  ]
+}

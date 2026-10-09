@@ -1,0 +1,121 @@
+sms_id,timestamp,sender,message
+3_sms_012,2026-10-07T10:36:03,HELPLINE,Update near the ration shop. approximately 42 people. Response active.
+3_sms_019,2026-10-07T10:38:06,HELPLINE,Update service road near the industrial gate. approximately 28 people. Response active.
+3_sms_024,2026-10-07T10:41:30,HELPLINE,Update behind the local market. approximately 21 people. Response active.
+3_sms_rumor_098,2026-10-07T11:26:35,HELPLINE,URGENT SHARE!!! Entire Chennai will go underwater tonight.
+3_sms_REFWD_014,2026-10-07T10:38:06,HELPLINE,Update service road near the industrial gate. approximately 28 people. Response active.
+3_sms_rumor_099,2026-10-07T11:38:36,HELPLINE,Forwarded message with no source says every hospital is full.
+3_sms_057,2026-10-07T11:05:28,HELPLINE,Update Ashok Nagar seventh avenue side. approximately 8 people. Response active.
+3_sms_malformed_102,missing
+3_sms_006,2026-10-07T10:32:35,HELPLINE,Pallavaram apartment road: 12 affected. Status RESCUE_IN_PROGRESS.
+3_sms_noise_074,2026-10-07T11:39:21,HELPLINE,Is the metro service delayed?
+3_sms_037,2026-10-07T11:00:00,HELPLINE,railway station entrance side: 56 affected. Status RESCUE_IN_PROGRESS.
+3_sms_020,2026-10-07T10:40:27,HELPLINE,Update low-lying colony road. approximately 61 people. Response active.
+3_sms_noise_091,2026-10-07T11:28:30,HELPLINE,Is Saidapet traffic diverted?
+3_sms_043,2026-10-07T11:09:12,HELPLINE,behind the river-side houses: 14 affected. Status RESCUE_IN_PROGRESS.
+3_sms_REFWD_010,2026-10-07T10:49:21,HELPLINE,Update low-lying road near Taramani. approximately 19 people. Response active.
+3_sms_noise_090,2026-10-07T11:54:33,HELPLINE,Traffic is very slow near Saidapet.
+3_sms_026,2026-10-07T10:53:20,HELPLINE,Update under the Saidapet station footbridge. approximately 56 people. Response active.
+3_sms_noise_088,2026-10-07T11:07:42,HELPLINE,Is the road to the airport open?
+3_sms_noise_082,2026-10-07T11:49:39,HELPLINE,Is the road to the airport open?
+3_sms_noise_081,2026-10-07T11:51:20,HELPLINE,"No emergency here, only asking about road conditions."
+3_sms_044,2026-10-07T11:01:32,HELPLINE,Same incident. near Taramani MRTS side road. rescue boat still required.
+3_sms_noise_066,2026-10-07T11:22:00,HELPLINE,Can somebody send the current rain forecast?
+3_sms_027,2026-10-07T10:44:44,HELPLINE,residential street behind the market: 22 affected. Status ACTIVE.
+3_sms_001,2026-10-07T10:30:00,HELPLINE,electrical compound near Sanatorium: 24 affected. Status RESCUE_IN_PROGRESS.
+3_sms_054,2026-10-07T11:16:49,HELPLINE,Perungudi station service road: 6 affected. Status RESOLVED.
+3_sms_noise_083,2026-10-07T11:11:00,HELPLINE,Is the local EB office working today?
+3_sms_053,2026-10-07T11:11:36,HELPLINE,Same incident. behind the temple street. food packets / dry ration still required.
+3_sms_039,2026-10-07T10:57:52,HELPLINE,near the residential lane by the river: 30 affected. Status ACTIVE.
+3_sms_025,2026-10-07T10:41:36,HELPLINE,Same incident. Guindy low-lying lane. fire tender still required.
+3_sms_045,2026-10-07T10:49:48,HELPLINE,Same incident. Taramani service road. rescue boat still required.
+3_sms_040,2026-10-07T10:46:54,HELPLINE,Ambattur service road: 26 affected. Status ACTIVE.
+3_sms_REFWD_009,2026-10-07T10:45:28,HELPLINE,Update near Perungudi MRTS. approximately 6 people. Response active.
+3_sms_061,2026-10-07T11:01:00,HELPLINE,Same incident. Pallikaranai waterlogged pocket. drinking water packets still required.
+3_sms_noise_092,2026-10-07T11:13:59,HELPLINE,Is the road to the airport open?
+3_sms_REFWD_012,2026-10-07T11:09:10,HELPLINE,Update behind the temple street. approximately 45 people. Response active.
+3_sms_020,2026-10-07T10:40:27,HELPLINE,Update low-lying colony road. approximately 61 people. Response active.
+3_sms_noise_070,2026-10-07T11:17:09,HELPLINE,Power cut again in my street. Does anyone know restoration time?
+3_sms_047,2026-10-07T11:16:00,HELPLINE,Update behind the local market. approximately 12 people. Response active.
+3_sms_049,2026-10-07T11:01:12,HELPLINE,Kodambakkam service road: 21 affected. Status RESCUE_IN_PROGRESS.
+3_sms_056,2026-10-07T11:20:25,HELPLINE,Thoraipakkam service lane: 38 affected. Status ACTIVE.
+3_sms_017,2026-10-07T10:38:16,HELPLINE,Update Medavakkam school road. approximately 16 people. Response active.
+3_sms_063,2026-10-07T11:09:16,HELPLINE,Ashok Nagar low-lying street: 8 affected. Status RESOLVED.
+3_sms_022,2026-10-07T10:42:15,HELPLINE,Same incident. near the apartment entrance. medical assistance / insulin still required.
+3_sms_noise_073,2026-10-07T11:42:00,HELPLINE,Any idea whether buses are running normally?
+3_sms_noise_075,2026-10-07T11:42:46,HELPLINE,Any idea whether buses are running normally?
+MALFORMED_SMS
+3_sms_noise_071,2026-10-07T11:24:50,HELPLINE,Is internet service down in this area?
+3_sms_015,2026-10-07T10:35:22,HELPLINE,near the beach-side residential lane: 13 affected. Status RESCUE_IN_PROGRESS.
+3_sms_005,2026-10-07T10:32:28,HELPLINE,Chromepet station side road: 22 affected. Status RESCUE_IN_PROGRESS.
+3_sms_025,2026-10-07T10:41:36,HELPLINE,Same incident. Guindy low-lying lane. fire tender still required.
+3_sms_011,2026-10-07T10:38:10,HELPLINE,Same incident. service road near the marsh. drinking water packets still required.
+3_sms_002,2026-10-07T10:30:28,HELPLINE,Same incident. near the ration shop. food packets / dry ration still required.
+3_sms_noise_087,2026-10-07T11:57:26,HELPLINE,Anybody knows whether supermarkets are open?
+3_sms_029,2026-10-07T10:47:44,HELPLINE,Same incident. near the bridge approach. rescue boat still required.
+3_sms_009,2026-10-07T10:36:24,HELPLINE,near Saidapet platform road: 56 affected. Status RESCUE_IN_PROGRESS.
+3_sms_030,2026-10-07T10:45:28,HELPLINE,Update near Perungudi MRTS. approximately 6 people. Response active.
+,,
+3_sms_046,2026-10-07T11:05:15,HELPLINE,Same incident. near the railway crossing. fire tender still required.
+3_sms_rumor_095,2026-10-07T11:29:32,HELPLINE,Forwarded message with no source says every hospital is full.
+3_sms_038,2026-10-07T10:47:16,HELPLINE,Update Puzhuthivakkam colony road. approximately 45 people. Response active.
+3_sms_008,2026-10-07T10:36:39,HELPLINE,Update Mylapore low-lying lane. approximately 22 people. Response active.
+3_sms_031,2026-10-07T10:50:00,HELPLINE,Update behind the market lane. approximately 5 people. Response active.
+3_sms_036,2026-10-07T11:00:20,HELPLINE,Same incident. near the bus stop road. medical assistance / insulin still required.
+3_sms_rumor_100,2026-10-07T11:19:30,HELPLINE,Someone claims all metro stations are being turned into shelters.
+3_sms_malformed_104,missing
+3_sms_048,2026-10-07T10:49:35,HELPLINE,near Mylapore tank: 22 affected. Status ACTIVE.
+3_sms_004,2026-10-07T10:32:51,HELPLINE,Same incident. residential lane near water tank. rescue boat still required.
+3_sms_058,2026-10-07T11:27:00,HELPLINE,near the local ration shop: 61 affected. Status RESCUE_IN_PROGRESS.
+3_sms_034,2026-10-07T10:55:51,HELPLINE,Update behind the local market. approximately 21 people. Response active.
+3_sms_041,2026-10-07T10:55:20,HELPLINE,Same incident. Adyar river-side road. drinking water packets still required.
+3_sms_035,2026-10-07T11:04:34,HELPLINE,Same incident. near the beach-side residential lane. rescue boat still required.
+3_sms_007,2026-10-07T10:34:00,HELPLINE,Update near the local ration shop. approximately 61 people. Response active.
+3_sms_noise_080,2026-10-07T11:12:08,HELPLINE,Is food delivery operating today?
+3_sms_noise_079,2026-10-07T11:37:36,HELPLINE,Power is gone but nobody is trapped here.
+3_sms_noise_086,2026-10-07T11:26:40,HELPLINE,Does anyone know if trains are suspended?
+3_sms_rumor_097,2026-10-07T11:51:36,HELPLINE,FORWARDED: Chennai will receive another 500mm rain exactly at midnight.
+3_sms_056,2026-10-07T11:20:25,HELPLINE,Thoraipakkam service lane: 38 affected. Status ACTIVE.
+3_sms_018,2026-10-07T10:45:35,HELPLINE,Same incident. low-lying industrial access road. drinking water packets still required.
+3_sms_noise_085,2026-10-07T11:17:36,HELPLINE,Just looking for traffic information.
+3_sms_noise_068,2026-10-07T11:34:46,HELPLINE,How long is this rain expected to continue?
+3_sms_noise_094,2026-10-07T11:21:09,HELPLINE,Need traffic information for Guindy.
+MALFORMED_SMS
+3_sms_noise_077,2026-10-07T11:02:56,HELPLINE,What time will electricity return?
+3_sms_064,2026-10-07T11:15:09,HELPLINE,Update near the railway-side apartments. approximately 12 people. Response active.
+3_sms_noise_084,2026-10-07T11:05:58,HELPLINE,Can someone confirm bus routes?
+3_sms_noise_072,2026-10-07T11:01:57,HELPLINE,Can I get the official rainfall warning?
+3_sms_052,2026-10-07T10:49:33,HELPLINE,Velachery MRTS west gate: 12 affected. Status RESCUE_IN_PROGRESS.
+3_sms_021,2026-10-07T10:38:00,HELPLINE,Update low-lying colony road. approximately 61 people. Response active.
+3_sms_REFWD_008,2026-10-07T11:00:00,HELPLINE,railway station entrance side: 56 affected. Status RESCUE_IN_PROGRESS.
+3_sms_013,2026-10-07T10:41:12,HELPLINE,Update behind the factory compound. approximately 28 people. Response active.
+3_sms_050,2026-10-07T11:19:49,HELPLINE,Same incident. near the apartment entrance. medical assistance / insulin still required.
+3_sms_noise_078,2026-10-07T11:14:55,HELPLINE,Are schools closed tomorrow?
+3_sms_noise_069,2026-10-07T11:25:32,HELPLINE,Anyone travelling toward Tambaram?
+3_sms_noise_089,2026-10-07T11:27:12,HELPLINE,How long is this rain expected to continue?
+3_sms_033,2026-10-07T10:49:44,HELPLINE,Update second lane behind the school. approximately 16 people. Response active.
+3_sms_022,2026-10-07T10:42:15,HELPLINE,Same incident. near the apartment entrance. medical assistance / insulin still required.
+3_sms_REFWD_013,2026-10-07T11:19:49,HELPLINE,Same incident. near the apartment entrance. medical assistance / insulin still required.
+3_sms_059,2026-10-07T11:10:36,HELPLINE,near the apartment entrance: 8 affected. Status RESOLVED.
+3_sms_023,2026-10-07T10:42:06,HELPLINE,Update Saidapet station waiting area. approximately 56 people. Response active.
+3_sms_noise_065,2026-10-07T11:06:16,HELPLINE,Traffic is very slow near Saidapet.
+3_sms_noise_076,2026-10-07T11:43:45,HELPLINE,Can somebody confirm office closure information?
+3_sms_060,2026-10-07T11:22:07,HELPLINE,station backside road: 12 affected. Status RESCUE_IN_PROGRESS.
+3_sms_012,2026-10-07T10:36:03,HELPLINE,Update near the ration shop. approximately 42 people. Response active.
+3_sms_016,2026-10-07T10:41:00,HELPLINE,Ambattur service road: 26 affected. Status ACTIVE.
+3_sms_noise_093,2026-10-07T11:06:48,HELPLINE,Is food delivery operating today?
+3_sms_051,2026-10-07T11:09:10,HELPLINE,Update behind the temple street. approximately 45 people. Response active.
+3_sms_055,2026-10-07T11:01:30,HELPLINE,Guindy service road: 14 affected. Status RESOLVED.
+3_sms_010,2026-10-07T10:37:30,HELPLINE,behind the local market: 21 affected. Status RESCUE_IN_PROGRESS.
+3_sms_034,2026-10-07T10:55:51,HELPLINE,Update behind the local market. approximately 21 people. Response active.
+3_sms_062,2026-10-07T11:21:51,HELPLINE,Same incident. near the EB side. fire tender still required.
+3_sms_028,2026-10-07T10:49:21,HELPLINE,Update low-lying road near Taramani. approximately 19 people. Response active.
+3_sms_014,2026-10-07T10:35:51,HELPLINE,Same incident. Perungudi service lane. medical assistance / insulin still required.
+3_sms_REFWD_011,2026-10-07T10:44:44,HELPLINE,residential street behind the market: 22 affected. Status ACTIVE.
+3_sms_039,2026-10-07T10:57:52,HELPLINE,near the residential lane by the river: 30 affected. Status ACTIVE.
+3_sms_noise_067,2026-10-07T11:33:48,HELPLINE,Anybody knows whether supermarkets are open?
+3_sms_042,2026-10-07T10:51:11,HELPLINE,Saidapet station waiting area: 56 affected. Status RESCUE_IN_PROGRESS.
+3_sms_rumor_101,2026-10-07T12:11:40,HELPLINE,Forwarded: every school in Chennai is closed for a full week.
+3_sms_003,2026-10-07T10:31:28,HELPLINE,Same incident. Kotturpuram river road. rescue boat still required.
+3_sms_032,2026-10-07T10:50:40,HELPLINE,Update Porur colony main lane. approximately 42 people. Response active.
+3_sms_rumor_096,2026-10-07T11:23:50,HELPLINE,Forwarded message with no source says every hospital is full.

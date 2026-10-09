@@ -1,0 +1,726 @@
+{
+  "city": "Chennai",
+  "stage": 4,
+  "messages": [
+    {
+      "message_id": "4_whatsapp_043",
+      "timestamp": "2026-10-07T12:16:48",
+      "sender": "local_admin",
+      "text": "Kotturpuram low-lying lane final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_noise_090",
+      "timestamp": "2026-10-07T13:15:39",
+      "sender": "resident_965",
+      "text": "Does anyone know if trains are suspended?"
+    },
+    {
+      "message_id": "4_whatsapp_050",
+      "timestamp": "2026-10-07T12:48:11",
+      "sender": "community_178",
+      "text": "అన్నా ఇది emergency update. ఇది same incident. near the Adyar bridge approach. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_063",
+      "timestamp": "2026-10-07T12:47:32",
+      "sender": "volunteer_476",
+      "text": "Final update for near the railway-side lane. previously reported people have now been moved to safety. people moved to safety. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_noise_069",
+      "timestamp": "2026-10-07T12:57:48",
+      "sender": "resident_699",
+      "text": "Are schools closed tomorrow?"
+    },
+    {
+      "message_id": "4_whatsapp_054",
+      "timestamp": "2026-10-07T12:30:02",
+      "sender": "volunteer_206",
+      "text": "Final update for Taramani service road. previously reported people have now been moved to safety. response completed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_005",
+      "timestamp": "2026-10-07T12:03:32",
+      "sender": "volunteer_776",
+      "text": "Final update for residential street behind the market. approximately 22 people. resource request remains open. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_malformed_103",
+      "timestamp": null,
+      "sender": "local_admin",
+      "text": ""
+    },
+    {
+      "message_id": "4_whatsapp_039",
+      "timestamp": "2026-10-07T12:34:12",
+      "sender": "resident_616",
+      "text": "అన్నా ఇది కొత్త complaint కాదు. ఇది same incident. low-lying road near OMR. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_noise_076",
+      "timestamp": "2026-10-07T12:48:45",
+      "sender": "volunteer_518",
+      "text": "Need weather information only."
+    },
+    {
+      "message_id": "4_whatsapp_018",
+      "timestamp": "2026-10-07T12:17:00",
+      "sender": "local_admin",
+      "text": "Final update for station waiting hall. previously reported people have now been moved to safety. people moved to safety. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_noise_081",
+      "timestamp": "2026-10-07T13:06:40",
+      "sender": "local_admin",
+      "text": "Any idea whether buses are running normally?"
+    },
+    {
+      "message_id": "4_whatsapp_020",
+      "timestamp": "2026-10-07T12:08:14",
+      "sender": "volunteer_940",
+      "text": "దయచేసి వెంటనే response పంపండి. ఇది same incident. school compound backside. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_027",
+      "timestamp": "2026-10-07T12:15:36",
+      "sender": "volunteer_906",
+      "text": "సార్ ముందు ఇచ్చిన reportకి ఇది continuation. ఇది same incident. behind the bus stop road. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_REFWD_009",
+      "timestamp": "2026-10-07T12:28:02",
+      "sender": "local_admin",
+      "text": "Pallikaranai waterlogged pocket final status: ACTIVE. Latest affected count approximately 34 people."
+    },
+    {
+      "message_id": "4_whatsapp_noise_082",
+      "timestamp": "2026-10-07T12:39:09",
+      "sender": "volunteer_967",
+      "text": "Anybody knows if the petrol bunk is functioning?"
+    },
+    {
+      "message_id": "4_whatsapp_noise_073",
+      "timestamp": "2026-10-07T12:27:36",
+      "sender": "community_719",
+      "text": "Can somebody send the current rain forecast?"
+    },
+    {
+      "message_id": "4_whatsapp_noise_087",
+      "timestamp": "2026-10-07T12:44:26",
+      "sender": "local_admin",
+      "text": "Can somebody confirm office closure information?"
+    },
+    {
+      "message_id": "4_whatsapp_045",
+      "timestamp": "2026-10-07T12:30:48",
+      "sender": "resident_344",
+      "text": "అయ్యా మళ్లీ అదే location నుంచి మాట్లాడుతున్నాను. ఇది same incident. low-lying road off OMR. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_noise_085",
+      "timestamp": "2026-10-07T13:12:48",
+      "sender": "volunteer_306",
+      "text": "Any idea whether buses are running normally?"
+    },
+    {
+      "message_id": "4_whatsapp_REFWD_012",
+      "timestamp": "2026-10-07T12:10:25",
+      "sender": "local_admin",
+      "text": "near Guindy bus stop final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_032",
+      "timestamp": "2026-10-07T12:31:00",
+      "sender": "volunteer_791",
+      "text": "సార్ మా దగ్గర పరిస్థితి వేగంగా మారుతోంది. ఇది same incident. behind the bus stop. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_029",
+      "timestamp": "2026-10-07T12:27:32",
+      "sender": "community_924",
+      "text": "service road near the industrial gate final status: ACTIVE. Latest affected count approximately 28 people."
+    },
+    {
+      "message_id": "4_whatsapp_noise_083",
+      "timestamp": "2026-10-07T12:46:28",
+      "sender": "volunteer_372",
+      "text": "Any idea whether buses are running normally?"
+    },
+    {
+      "message_id": "4_whatsapp_noise_078",
+      "timestamp": "2026-10-07T13:13:09",
+      "sender": "volunteer_913",
+      "text": "Need traffic information for Guindy."
+    },
+    {
+      "message_id": "4_whatsapp_noise_091",
+      "timestamp": "2026-10-07T13:15:00",
+      "sender": "volunteer_696",
+      "text": "Is food delivery operating today?"
+    },
+    {
+      "message_id": "4_whatsapp_026",
+      "timestamp": "2026-10-07T12:10:25",
+      "sender": "resident_490",
+      "text": "near Guindy bus stop final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_004",
+      "timestamp": "2026-10-07T12:02:54",
+      "sender": "local_admin",
+      "text": "దయచేసి వెంటనే response పంపండి. ఇది same incident. Ambattur industrial road. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_064",
+      "timestamp": "2026-10-07T12:43:03",
+      "sender": "volunteer_997",
+      "text": "Final update for Kodambakkam back road. previously reported people have now been moved to safety. resource request fulfilled. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_024",
+      "timestamp": "2026-10-07T12:19:10",
+      "sender": "volunteer_269",
+      "text": "Final update for near the railway crossing. previously reported people have now been moved to safety. resource request fulfilled. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_003",
+      "timestamp": "2026-10-07T12:02:00",
+      "sender": "local_admin",
+      "text": "సార్ ముందు ఇచ్చిన reportకి ఇది continuation. ఇది same incident. behind the temple street. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_041",
+      "timestamp": "2026-10-07T12:34:00",
+      "sender": "volunteer_641",
+      "text": "సార్ దయచేసి మా లొకేషన్ నోట్ చేయండి. ఇది same incident. transformer yard near the station. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_034",
+      "timestamp": "2026-10-07T12:30:48",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది emergency update. ఇది same incident. near the local ration shop. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_049",
+      "timestamp": "2026-10-07T12:30:24",
+      "sender": "local_admin",
+      "text": "Final update for Perungudi station service road. previously reported people have now been moved to safety. response completed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_noise_088",
+      "timestamp": "2026-10-07T12:50:45",
+      "sender": "community_990",
+      "text": "Is food delivery operating today?"
+    },
+    {
+      "message_id": "4_whatsapp_noise_071",
+      "timestamp": "2026-10-07T12:35:00",
+      "sender": "community_188",
+      "text": "Is OMR traffic moving right now?"
+    },
+    {
+      "message_id": "4_whatsapp_014",
+      "timestamp": "2026-10-07T12:10:24",
+      "sender": "volunteer_591",
+      "text": "సార్ పరిస్థితి ఇప్పుడు ఇంకా seriousగా ఉంది. ఇది same incident. behind the temple street. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_noise_079",
+      "timestamp": "2026-10-07T13:07:36",
+      "sender": "community_716",
+      "text": "What time will electricity return?"
+    },
+    {
+      "message_id": "4_whatsapp_noise_093",
+      "timestamp": "2026-10-07T13:33:32",
+      "sender": "local_admin",
+      "text": "Anybody knows if the petrol bunk is functioning?"
+    },
+    {
+      "message_id": "4_whatsapp_noise_092",
+      "timestamp": "2026-10-07T13:03:42",
+      "sender": "community_381",
+      "text": "Is the market near Velachery open?"
+    },
+    {
+      "message_id": "4_whatsapp_012",
+      "timestamp": "2026-10-07T12:06:47",
+      "sender": "volunteer_143",
+      "text": "behind the IT corridor service lane final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_rumor_100",
+      "timestamp": "2026-10-07T13:20:51",
+      "sender": "volunteer_758",
+      "text": "Forwarded: every school in Chennai is closed for a full week."
+    },
+    {
+      "message_id": "4_whatsapp_017",
+      "timestamp": "2026-10-07T12:10:24",
+      "sender": "resident_616",
+      "text": "Final update for Ambattur service road. approximately 26 people. incident still active. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_015",
+      "timestamp": "2026-10-07T12:08:52",
+      "sender": "volunteer_470",
+      "text": "అన్నా ఇది కొత్త complaint కాదు. ఇది same incident. Ashok Nagar seventh avenue side. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_rumor_097",
+      "timestamp": "2026-10-07T13:34:24",
+      "sender": "local_admin",
+      "text": "Unverified message says all railway stations are being evacuated."
+    },
+    {
+      "message_id": "4_whatsapp_rumor_099",
+      "timestamp": "2026-10-07T13:21:40",
+      "sender": "local_admin",
+      "text": "Forwarded message with no source says every hospital is full."
+    },
+    {
+      "message_id": "4_whatsapp_031",
+      "timestamp": "2026-10-07T12:14:00",
+      "sender": "local_admin",
+      "text": "Final update for Perungudi service lane. previously reported people have now been moved to safety. incident can now be closed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_REFWD_011",
+      "timestamp": "2026-10-07T12:34:30",
+      "sender": "local_admin",
+      "text": "Guindy service road final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_noise_084",
+      "timestamp": "2026-10-07T13:07:47",
+      "sender": "community_889",
+      "text": "Can I get the official rainfall warning?"
+    },
+    {
+      "message_id": "4_whatsapp_002",
+      "timestamp": "2026-10-07T12:00:23",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది emergency update. ఇది same incident. Puzhuthivakkam low-lying lane. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_025",
+      "timestamp": "2026-10-07T12:13:36",
+      "sender": "community_964",
+      "text": "Final update for Puzhuthivakkam colony road. approximately 45 people. some people remain affected. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_noise_086",
+      "timestamp": "2026-10-07T12:39:40",
+      "sender": "resident_562",
+      "text": "What time will electricity return?"
+    },
+    {
+      "message_id": "4_whatsapp_021",
+      "timestamp": "2026-10-07T12:13:20",
+      "sender": "volunteer_995",
+      "text": "Final update for Ambattur service road. approximately 26 people. some people remain affected. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_060",
+      "timestamp": "2026-10-07T12:28:31",
+      "sender": "resident_310",
+      "text": "దయచేసి వెంటనే response పంపండి. ఇది same incident. low-lying road near the marsh. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_noise_077",
+      "timestamp": "2026-10-07T12:57:00",
+      "sender": "volunteer_283",
+      "text": "Does anyone know the current train timing?"
+    },
+    {
+      "message_id": "4_whatsapp_malformed_106",
+      "timestamp": null,
+      "sender": "local_admin",
+      "text": "???? ??? ?????"
+    },
+    {
+      "message_id": "4_whatsapp_053",
+      "timestamp": "2026-10-07T12:27:44",
+      "sender": "volunteer_728",
+      "text": "near the beach-side residential lane final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_057",
+      "timestamp": "2026-10-07T12:34:32",
+      "sender": "local_admin",
+      "text": "Final update for behind the temple-side road. approximately 22 people. resource request remains open. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_malformed_104",
+      "timestamp": null,
+      "sender": "local_admin",
+      "text": "BAD RECORD"
+    },
+    {
+      "message_id": "4_whatsapp_rumor_096",
+      "timestamp": "2026-10-07T12:50:40",
+      "sender": "volunteer_920",
+      "text": "URGENT SHARE!!! Entire Chennai will go underwater tonight."
+    },
+    {
+      "message_id": "4_whatsapp_035",
+      "timestamp": "2026-10-07T12:17:00",
+      "sender": "resident_199",
+      "text": "సార్ ముందు ఇచ్చిన reportకి ఇది continuation. ఇది same incident. near Perungudi MRTS. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_061",
+      "timestamp": "2026-10-07T12:42:00",
+      "sender": "community_774",
+      "text": "transformer yard near the station final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_042",
+      "timestamp": "2026-10-07T12:35:32",
+      "sender": "resident_573",
+      "text": "Final update for Pallikaranai waterlogged pocket. approximately 34 people. do not close the ticket. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_noise_070",
+      "timestamp": "2026-10-07T12:28:45",
+      "sender": "local_admin",
+      "text": "Does anyone know if trains are suspended?"
+    },
+    {
+      "message_id": "4_whatsapp_038",
+      "timestamp": "2026-10-07T12:16:02",
+      "sender": "local_admin",
+      "text": "behind Chromepet railway station final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_noise_094",
+      "timestamp": "2026-10-07T13:11:18",
+      "sender": "resident_189",
+      "text": "Can somebody confirm office closure information?"
+    },
+    {
+      "message_id": "4_whatsapp_016",
+      "timestamp": "2026-10-07T12:13:45",
+      "sender": "community_487",
+      "text": "near the Vijayanagar side road final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_013",
+      "timestamp": "2026-10-07T12:09:00",
+      "sender": "local_admin",
+      "text": "Final update for Chromepet station side road. previously reported people have now been moved to safety. rescue completed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_malformed_105",
+      "timestamp": null,
+      "sender": "local_admin",
+      "text": "Missing timestamp and sender"
+    },
+    {
+      "message_id": "4_whatsapp_030",
+      "timestamp": "2026-10-07T12:22:14",
+      "sender": "resident_876",
+      "text": "Final update for Perungudi service lane. previously reported people have now been moved to safety. response completed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_007",
+      "timestamp": "2026-10-07T12:05:18",
+      "sender": "resident_443",
+      "text": "అన్నా ఇది కొత్త complaint కాదు. ఇది same incident. behind the neighbourhood temple. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_malformed_102",
+      "timestamp": null,
+      "sender": "community_638",
+      "text": null
+    },
+    {
+      "message_id": "4_whatsapp_046",
+      "timestamp": "2026-10-07T12:29:15",
+      "sender": "community_148",
+      "text": "Final update for behind the river-side houses. previously reported people have now been moved to safety. incident can now be closed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_010",
+      "timestamp": "2026-10-07T12:08:51",
+      "sender": "resident_273",
+      "text": "అన్నా ఇది emergency update. ఇది same incident. Puzhuthivakkam low-lying lane. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_noise_067",
+      "timestamp": "2026-10-07T12:31:54",
+      "sender": "volunteer_972",
+      "text": "Need weather information only."
+    },
+    {
+      "message_id": "4_whatsapp_003",
+      "timestamp": "2026-10-07T12:02:00",
+      "sender": "volunteer_791",
+      "text": "సార్ ముందు ఇచ్చిన reportకి ఇది continuation. ఇది same incident. behind the temple street. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_056",
+      "timestamp": "2026-10-07T12:48:35",
+      "sender": "community_876",
+      "text": "Final update for Ambattur service road. approximately 26 people. resource request remains open. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_noise_072",
+      "timestamp": "2026-10-07T12:44:58",
+      "sender": "resident_261",
+      "text": "Need weather information only."
+    },
+    {
+      "message_id": "4_whatsapp_059",
+      "timestamp": "2026-10-07T12:28:02",
+      "sender": "resident_548",
+      "text": "Pallikaranai waterlogged pocket final status: ACTIVE. Latest affected count approximately 34 people."
+    },
+    {
+      "message_id": "4_whatsapp_rumor_095",
+      "timestamp": "2026-10-07T13:02:40",
+      "sender": "community_476",
+      "text": "Someone claims all metro stations are being turned into shelters."
+    },
+    {
+      "message_id": "4_whatsapp_052",
+      "timestamp": "2026-10-07T12:23:48",
+      "sender": "community_489",
+      "text": "దయచేసి వెంటనే response పంపండి. ఇది same incident. behind Velachery MRTS. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_noise_074",
+      "timestamp": "2026-10-07T13:11:47",
+      "sender": "resident_937",
+      "text": "Is the road to the airport open?"
+    },
+    {
+      "message_id": "4_whatsapp_noise_066",
+      "timestamp": "2026-10-07T12:40:05",
+      "sender": "volunteer_165",
+      "text": "Power is gone but nobody is trapped here."
+    },
+    {
+      "message_id": "4_whatsapp_018",
+      "timestamp": "2026-10-07T12:17:00",
+      "sender": "local_admin",
+      "text": "Final update for station waiting hall. previously reported people have now been moved to safety. people moved to safety. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_040",
+      "timestamp": "2026-10-07T12:22:06",
+      "sender": "volunteer_241",
+      "text": "Final update for station backside road. previously reported people have now been moved to safety. people moved to safety. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_011",
+      "timestamp": "2026-10-07T12:10:00",
+      "sender": "local_admin",
+      "text": "Porur low-lying street final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_009",
+      "timestamp": "2026-10-07T12:06:32",
+      "sender": "volunteer_447",
+      "text": "Final update for near the beach-side residential lane. previously reported people have now been moved to safety. response completed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_055",
+      "timestamp": "2026-10-07T12:49:30",
+      "sender": "volunteer_662",
+      "text": "near the ration shop final status: ACTIVE. Latest affected count approximately 45 people."
+    },
+    {
+      "message_id": "4_whatsapp_023",
+      "timestamp": "2026-10-07T12:10:16",
+      "sender": "resident_181",
+      "text": "Final update for Guindy low-lying lane. previously reported people have now been moved to safety. incident can now be closed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_REFWD_010",
+      "timestamp": "2026-10-07T12:23:48",
+      "sender": "community_450",
+      "text": "దయచేసి వెంటనే response పంపండి. ఇది same incident. behind Velachery MRTS. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_019",
+      "timestamp": "2026-10-07T12:12:00",
+      "sender": "resident_183",
+      "text": "Sholinganallur service road final status: ACTIVE. Latest affected count approximately 40 people."
+    },
+    {
+      "message_id": "4_whatsapp_058",
+      "timestamp": "2026-10-07T12:52:15",
+      "sender": "volunteer_303",
+      "text": "bus stop after Perungudi MRTS final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_rumor_098",
+      "timestamp": "2026-10-07T13:20:50",
+      "sender": "community_212",
+      "text": "Someone says cyclone warning has already been issued for tonight."
+    },
+    {
+      "message_id": "4_whatsapp_REFWD_014",
+      "timestamp": "2026-10-07T12:03:58",
+      "sender": "local_admin",
+      "text": "behind the market lane final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_041",
+      "timestamp": "2026-10-07T12:34:00",
+      "sender": "resident_444",
+      "text": "సార్ దయచేసి మా లొకేషన్ నోట్ చేయండి. ఇది same incident. transformer yard near the station. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_044",
+      "timestamp": "2026-10-07T12:27:57",
+      "sender": "volunteer_731",
+      "text": "residential lane near water tank final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_048",
+      "timestamp": "2026-10-07T12:32:07",
+      "sender": "community_197",
+      "text": "low-lying road near Besant Nagar final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_noise_080",
+      "timestamp": "2026-10-07T12:56:37",
+      "sender": "local_admin",
+      "text": "Traffic is very slow near Saidapet."
+    },
+    {
+      "message_id": "4_whatsapp_037",
+      "timestamp": "2026-10-07T12:33:00",
+      "sender": "local_admin",
+      "text": "అయ్యా మళ్లీ అదే location నుంచి మాట్లాడుతున్నాను. ఇది same incident. railway station entrance side. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_006",
+      "timestamp": "2026-10-07T12:01:55",
+      "sender": "volunteer_542",
+      "text": "behind Sanatorium railway station final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_046",
+      "timestamp": "2026-10-07T12:29:15",
+      "sender": "resident_786",
+      "text": "Final update for behind the river-side houses. previously reported people have now been moved to safety. incident can now be closed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_028",
+      "timestamp": "2026-10-07T12:10:21",
+      "sender": "volunteer_229",
+      "text": "దయచేసి వెంటనే response పంపండి. ఇది same incident. Porur colony main lane. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_noise_065",
+      "timestamp": "2026-10-07T12:50:08",
+      "sender": "volunteer_412",
+      "text": "Any idea whether buses are running normally?"
+    },
+    {
+      "message_id": "4_whatsapp_036",
+      "timestamp": "2026-10-07T12:34:25",
+      "sender": "community_361",
+      "text": "low-lying road near Besant Nagar final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_045",
+      "timestamp": "2026-10-07T12:30:48",
+      "sender": "community_602",
+      "text": "అయ్యా మళ్లీ అదే location నుంచి మాట్లాడుతున్నాను. ఇది same incident. low-lying road off OMR. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_rumor_101",
+      "timestamp": "2026-10-07T13:35:00",
+      "sender": "volunteer_604",
+      "text": "Someone claims all metro stations are being turned into shelters."
+    },
+    {
+      "message_id": "4_whatsapp_REFWD_013",
+      "timestamp": "2026-10-07T12:42:00",
+      "sender": "community_305",
+      "text": "transformer yard near the station final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_009",
+      "timestamp": "2026-10-07T12:06:32",
+      "sender": "resident_492",
+      "text": "Final update for near the beach-side residential lane. previously reported people have now been moved to safety. response completed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_022",
+      "timestamp": "2026-10-07T12:09:48",
+      "sender": "community_640",
+      "text": "station approach road final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_051",
+      "timestamp": "2026-10-07T12:42:30",
+      "sender": "community_640",
+      "text": "Final update for Ambattur service road. approximately 26 people. additional response still required. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_062",
+      "timestamp": "2026-10-07T12:37:37",
+      "sender": "volunteer_792",
+      "text": "సార్ పరిస్థితి ఇప్పుడు ఇంకా seriousగా ఉంది. ఇది same incident. Ashok Nagar low-lying street. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_047",
+      "timestamp": "2026-10-07T12:34:30",
+      "sender": "local_admin",
+      "text": "Guindy service road final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_020",
+      "timestamp": "2026-10-07T12:08:14",
+      "sender": "resident_274",
+      "text": "దయచేసి వెంటనే response పంపండి. ఇది same incident. school compound backside. Current status RESOLVED."
+    },
+    {
+      "message_id": "4_whatsapp_noise_068",
+      "timestamp": "2026-10-07T12:41:19",
+      "sender": "local_admin",
+      "text": "Is the road to the airport open?"
+    },
+    {
+      "message_id": "4_whatsapp_001",
+      "timestamp": "2026-10-07T12:00:00",
+      "sender": "local_admin",
+      "text": "సార్ దయచేసి మా లొకేషన్ నోట్ చేయండి. ఇది same incident. behind the bus stop. Current status ACTIVE."
+    },
+    {
+      "message_id": "4_whatsapp_noise_089",
+      "timestamp": "2026-10-07T12:39:36",
+      "sender": "volunteer_916",
+      "text": "Is the local EB office working today?"
+    },
+    {
+      "message_id": "4_whatsapp_noise_075",
+      "timestamp": "2026-10-07T12:30:50",
+      "sender": "community_992",
+      "text": "Anyone travelling toward Tambaram?"
+    },
+    {
+      "message_id": "4_whatsapp_033",
+      "timestamp": "2026-10-07T12:27:12",
+      "sender": "volunteer_557",
+      "text": "near the railway crossing final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    },
+    {
+      "message_id": "4_whatsapp_REFWD_008",
+      "timestamp": "2026-10-07T12:14:00",
+      "sender": "local_admin",
+      "text": "Final update for Perungudi service lane. previously reported people have now been moved to safety. incident can now be closed. Please update the same incident."
+    },
+    {
+      "message_id": "4_whatsapp_008",
+      "timestamp": "2026-10-07T12:03:58",
+      "sender": "volunteer_569",
+      "text": "behind the market lane final status: RESOLVED. Latest affected count previously reported people have now been moved to safety."
+    }
+  ]
+}

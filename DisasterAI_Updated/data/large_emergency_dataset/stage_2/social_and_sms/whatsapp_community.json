@@ -1,0 +1,726 @@
+{
+  "city": "Chennai",
+  "stage": 2,
+  "messages": [
+    {
+      "message_id": "2_whatsapp_061",
+      "timestamp": "2026-10-07T09:47:00",
+      "sender": "resident_919",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Kodambakkam reportకే update. ఇప్పుడు approximately 16 people. fire tender still needed."
+    },
+    {
+      "message_id": "2_whatsapp_noise_065",
+      "timestamp": "2026-10-07T10:07:36",
+      "sender": "community_575",
+      "text": "No emergency here, only asking about road conditions."
+    },
+    {
+      "message_id": "2_whatsapp_noise_080",
+      "timestamp": "2026-10-07T10:03:59",
+      "sender": "volunteer_392",
+      "text": "Anybody knows whether supermarkets are open?"
+    },
+    {
+      "message_id": "2_whatsapp_013",
+      "timestamp": "2026-10-07T09:19:12",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Sholinganallur reportకే update. ఇప్పుడు approximately 31 people. drinking water packets still needed."
+    },
+    {
+      "message_id": "2_whatsapp_050",
+      "timestamp": "2026-10-07T09:33:41",
+      "sender": "community_360",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Pallikaranai reportకే update. ఇప్పుడు approximately 27 people. drinking water packets still needed."
+    },
+    {
+      "message_id": "2_whatsapp_noise_066",
+      "timestamp": "2026-10-07T09:41:25",
+      "sender": "resident_790",
+      "text": "Is the market near Velachery open?"
+    },
+    {
+      "message_id": "2_whatsapp_rumor_100",
+      "timestamp": "2026-10-07T10:06:06",
+      "sender": "volunteer_674",
+      "text": "Forwarded: every school in Chennai is closed for a full week."
+    },
+    {
+      "message_id": "2_whatsapp_noise_072",
+      "timestamp": "2026-10-07T10:15:05",
+      "sender": "local_admin",
+      "text": "Is the road to the airport open?"
+    },
+    {
+      "message_id": "2_whatsapp_noise_069",
+      "timestamp": "2026-10-07T09:54:12",
+      "sender": "resident_441",
+      "text": "Anybody knows if the petrol bunk is functioning?"
+    },
+    {
+      "message_id": "2_whatsapp_027",
+      "timestamp": "2026-10-07T09:33:24",
+      "sender": "volunteer_692",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Saidapet reportకే update. ఇప్పుడు approximately 46 people. food packets / dry ration still needed."
+    },
+    {
+      "message_id": "2_whatsapp_REFWD_014",
+      "timestamp": "2026-10-07T09:27:46",
+      "sender": "volunteer_525",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Sholinganallur reportకే update. ఇప్పుడు approximately 31 people. drinking water packets still needed."
+    },
+    {
+      "message_id": "2_whatsapp_051",
+      "timestamp": "2026-10-07T09:38:20",
+      "sender": "volunteer_212",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Madipakkam reportకే update. ఇప్పుడు approximately 48 people. food packets / dry ration still needed."
+    },
+    {
+      "message_id": "2_whatsapp_034",
+      "timestamp": "2026-10-07T09:32:33",
+      "sender": "local_admin",
+      "text": "Same incident at near the beach-side residential lane. Count increased to approximately 10 people. రెస్క్యూ బోట్ కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_rumor_098",
+      "timestamp": "2026-10-07T10:03:21",
+      "sender": "resident_512",
+      "text": "Forwarded: every school in Chennai is closed for a full week."
+    },
+    {
+      "message_id": "2_whatsapp_053",
+      "timestamp": "2026-10-07T09:49:00",
+      "sender": "volunteer_616",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Mylapore reportకే update. ఇప్పుడు approximately 18 people. drinking water packets still needed."
+    },
+    {
+      "message_id": "2_whatsapp_012",
+      "timestamp": "2026-10-07T09:19:54",
+      "sender": "local_admin",
+      "text": "Update from behind the temple street: approximately 39 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_noise_092",
+      "timestamp": "2026-10-07T10:00:03",
+      "sender": "volunteer_588",
+      "text": "Are schools closed tomorrow?"
+    },
+    {
+      "message_id": "2_whatsapp_056",
+      "timestamp": "2026-10-07T09:39:20",
+      "sender": "resident_932",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Velachery reportకే update. ఇప్పుడు approximately 9 people. medical assistance / insulin still needed."
+    },
+    {
+      "message_id": "2_whatsapp_malformed_104",
+      "timestamp": null,
+      "sender": "local_admin",
+      "text": "BAD RECORD"
+    },
+    {
+      "message_id": "2_whatsapp_noise_070",
+      "timestamp": "2026-10-07T10:19:00",
+      "sender": "resident_939",
+      "text": "Need traffic information for Guindy."
+    },
+    {
+      "message_id": "2_whatsapp_malformed_102",
+      "timestamp": null,
+      "sender": "local_admin",
+      "text": null
+    },
+    {
+      "message_id": "2_whatsapp_noise_094",
+      "timestamp": "2026-10-07T10:18:12",
+      "sender": "local_admin",
+      "text": "Can I get the official rainfall warning?"
+    },
+    {
+      "message_id": "2_whatsapp_020",
+      "timestamp": "2026-10-07T09:28:41",
+      "sender": "volunteer_116",
+      "text": "Same incident at OMR side road. Count increased to approximately 32 people. clean drinking water urgently కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_021",
+      "timestamp": "2026-10-07T09:26:00",
+      "sender": "volunteer_474",
+      "text": "Same incident at Kodambakkam service road. Count increased to approximately 16 people. ఫైర్ సర్వీస్ పంపండి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_022",
+      "timestamp": "2026-10-07T09:20:09",
+      "sender": "resident_253",
+      "text": "Update from residential lane near MRTS: approximately 6 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_noise_079",
+      "timestamp": "2026-10-07T09:59:24",
+      "sender": "resident_177",
+      "text": "Can I get the official rainfall warning?"
+    },
+    {
+      "message_id": "2_whatsapp_noise_076",
+      "timestamp": "2026-10-07T10:03:45",
+      "sender": "volunteer_497",
+      "text": "Is Saidapet traffic diverted?"
+    },
+    {
+      "message_id": "2_whatsapp_rumor_101",
+      "timestamp": "2026-10-07T10:15:00",
+      "sender": "resident_798",
+      "text": "Someone says cyclone warning has already been issued for tonight."
+    },
+    {
+      "message_id": "2_whatsapp_REFWD_012",
+      "timestamp": "2026-10-07T09:34:16",
+      "sender": "resident_813",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Kotturpuram reportకే update. ఇప్పుడు approximately 11 people. rescue boat still needed."
+    },
+    {
+      "message_id": "2_whatsapp_004",
+      "timestamp": "2026-10-07T09:12:24",
+      "sender": "resident_510",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Ashok Nagar reportకే update. ఇప్పుడు approximately 7 people. medical assistance / insulin still needed."
+    },
+    {
+      "message_id": "2_whatsapp_059",
+      "timestamp": "2026-10-07T09:41:54",
+      "sender": "resident_488",
+      "text": "Update from low-lying road near the marsh: approximately 27 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_rumor_097",
+      "timestamp": "2026-10-07T10:42:48",
+      "sender": "community_749",
+      "text": "Unverified message says all railway stations are being evacuated."
+    },
+    {
+      "message_id": "2_whatsapp_008",
+      "timestamp": "2026-10-07T09:15:57",
+      "sender": "resident_560",
+      "text": "Same incident at Ashok Nagar seventh avenue side. Count increased to approximately 7 people. మెడికల్ టీమ్ కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_030",
+      "timestamp": "2026-10-07T09:31:45",
+      "sender": "community_846",
+      "text": "Update from Pallikaranai waterlogged pocket: approximately 27 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_045",
+      "timestamp": "2026-10-07T09:48:52",
+      "sender": "resident_824",
+      "text": "Same incident at railway station entrance side. Count increased to approximately 46 people. తినడానికి ready food కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_006",
+      "timestamp": "2026-10-07T09:14:05",
+      "sender": "community_518",
+      "text": "Update from near the railway-side lane: approximately 16 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_noise_091",
+      "timestamp": "2026-10-07T10:16:00",
+      "sender": "resident_323",
+      "text": "Power is gone but nobody is trapped here."
+    },
+    {
+      "message_id": "2_whatsapp_035",
+      "timestamp": "2026-10-07T09:39:28",
+      "sender": "resident_133",
+      "text": "Same incident at near the railway-side lane. Count increased to approximately 16 people. మంటలు ఎక్కువగా ఉన్నాయి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_025",
+      "timestamp": "2026-10-07T09:23:36",
+      "sender": "resident_752",
+      "text": "Update from low-lying colony road: approximately 48 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_043",
+      "timestamp": "2026-10-07T09:47:06",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Perungudi reportకే update. ఇప్పుడు approximately 6 people. medical assistance / insulin still needed."
+    },
+    {
+      "message_id": "2_whatsapp_noise_067",
+      "timestamp": "2026-10-07T10:05:00",
+      "sender": "local_admin",
+      "text": "Is the local EB office working today?"
+    },
+    {
+      "message_id": "2_whatsapp_001",
+      "timestamp": "2026-10-07T09:10:00",
+      "sender": "community_176",
+      "text": "Update from behind the main beach road: approximately 10 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_017",
+      "timestamp": "2026-10-07T09:16:56",
+      "sender": "resident_310",
+      "text": "Update from Mylapore low-lying lane: approximately 18 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_noise_081",
+      "timestamp": "2026-10-07T09:59:20",
+      "sender": "resident_617",
+      "text": "What time will electricity return?"
+    },
+    {
+      "message_id": "2_whatsapp_016",
+      "timestamp": "2026-10-07T09:24:45",
+      "sender": "volunteer_475",
+      "text": "Same incident at industrial estate side road. Count increased to approximately 14 people. ఫైర్ టెండర్ వెంటనే కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_noise_083",
+      "timestamp": "2026-10-07T09:42:48",
+      "sender": "resident_877",
+      "text": "Just looking for traffic information."
+    },
+    {
+      "message_id": "2_whatsapp_061",
+      "timestamp": "2026-10-07T09:47:00",
+      "sender": "resident_892",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Kodambakkam reportకే update. ఇప్పుడు approximately 16 people. fire tender still needed."
+    },
+    {
+      "message_id": "2_whatsapp_noise_086",
+      "timestamp": "2026-10-07T09:48:15",
+      "sender": "volunteer_564",
+      "text": "How long is this rain expected to continue?"
+    },
+    {
+      "message_id": "2_whatsapp_063",
+      "timestamp": "2026-10-07T09:38:56",
+      "sender": "volunteer_507",
+      "text": "Same incident at Puzhuthivakkam colony road. Count increased to approximately 39 people. తినడానికి ready food కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_041",
+      "timestamp": "2026-10-07T09:50:40",
+      "sender": "volunteer_558",
+      "text": "Same incident at low-lying colony road. Count increased to approximately 48 people. డ్రై రేషన్ అవసరం. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_055",
+      "timestamp": "2026-10-07T09:37:00",
+      "sender": "resident_328",
+      "text": "Same incident at near the bridge approach. Count increased to approximately 11 people. రెస్క్యూ బోట్ కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_REFWD_009",
+      "timestamp": "2026-10-07T09:37:27",
+      "sender": "resident_522",
+      "text": "Update from behind the main beach road: approximately 10 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_malformed_105",
+      "timestamp": null,
+      "sender": "resident_218",
+      "text": "Missing timestamp and sender"
+    },
+    {
+      "message_id": "2_whatsapp_038",
+      "timestamp": "2026-10-07T09:45:09",
+      "sender": "volunteer_308",
+      "text": "Same incident at near the Adyar bridge approach. Count increased to approximately 22 people. clean drinking water urgently కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_019",
+      "timestamp": "2026-10-07T09:19:36",
+      "sender": "volunteer_179",
+      "text": "Same incident at low-lying road near OMR. Count increased to approximately 32 people. తాగునీటి ప్యాకెట్లు కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_033",
+      "timestamp": "2026-10-07T09:27:36",
+      "sender": "local_admin",
+      "text": "Update from low-lying road near Besant Nagar: approximately 10 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_noise_071",
+      "timestamp": "2026-10-07T09:45:00",
+      "sender": "community_347",
+      "text": "Anybody knows if the petrol bunk is functioning?"
+    },
+    {
+      "message_id": "2_whatsapp_049",
+      "timestamp": "2026-10-07T09:46:00",
+      "sender": "resident_107",
+      "text": "Update from near the tank service road: approximately 18 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_039",
+      "timestamp": "2026-10-07T09:45:28",
+      "sender": "local_admin",
+      "text": "Same incident at electrical compound road. Count increased to approximately 17 people. ఫైర్ సర్వీస్ పంపండి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_noise_068",
+      "timestamp": "2026-10-07T09:36:48",
+      "sender": "resident_413",
+      "text": "Is food delivery operating today?"
+    },
+    {
+      "message_id": "2_whatsapp_REFWD_010",
+      "timestamp": "2026-10-07T09:22:34",
+      "sender": "community_367",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Nanganallur reportకే update. ఇప్పుడు approximately 5 people. medical assistance / insulin still needed."
+    },
+    {
+      "message_id": "2_whatsapp_003",
+      "timestamp": "2026-10-07T09:11:32",
+      "sender": "volunteer_829",
+      "text": "Update from behind the IT corridor service lane: approximately 15 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_REFWD_013",
+      "timestamp": "2026-10-07T09:45:28",
+      "sender": "resident_906",
+      "text": "Same incident at electrical compound road. Count increased to approximately 17 people. ఫైర్ సర్వీస్ పంపండి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_060",
+      "timestamp": "2026-10-07T10:00:09",
+      "sender": "volunteer_323",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Besant Nagar reportకే update. ఇప్పుడు approximately 10 people. rescue boat still needed."
+    },
+    {
+      "message_id": "2_whatsapp_011",
+      "timestamp": "2026-10-07T09:15:20",
+      "sender": "volunteer_831",
+      "text": "Update from behind the Medavakkam government school: approximately 13 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_noise_087",
+      "timestamp": "2026-10-07T10:17:22",
+      "sender": "community_195",
+      "text": "Will the rain continue overnight?"
+    },
+    {
+      "message_id": "2_whatsapp_002",
+      "timestamp": "2026-10-07T09:10:52",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Taramani reportకే update. ఇప్పుడు approximately 15 people. rescue boat still needed."
+    },
+    {
+      "message_id": "2_whatsapp_noise_082",
+      "timestamp": "2026-10-07T09:59:57",
+      "sender": "volunteer_574",
+      "text": "Is the market near Velachery open?"
+    },
+    {
+      "message_id": "2_whatsapp_011",
+      "timestamp": "2026-10-07T09:15:20",
+      "sender": "resident_624",
+      "text": "Update from behind the Medavakkam government school: approximately 13 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_029",
+      "timestamp": "2026-10-07T09:23:04",
+      "sender": "volunteer_361",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Puzhuthivakkam reportకే update. ఇప్పుడు approximately 39 people. food packets / dry ration still needed."
+    },
+    {
+      "message_id": "2_whatsapp_noise_074",
+      "timestamp": "2026-10-07T09:55:01",
+      "sender": "resident_350",
+      "text": "Is internet service down in this area?"
+    },
+    {
+      "message_id": "2_whatsapp_031",
+      "timestamp": "2026-10-07T09:31:30",
+      "sender": "volunteer_217",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Nanganallur reportకే update. ఇప్పుడు approximately 5 people. medical assistance / insulin still needed."
+    },
+    {
+      "message_id": "2_whatsapp_044",
+      "timestamp": "2026-10-07T09:37:14",
+      "sender": "community_535",
+      "text": "Same incident at near the ration shop. Count increased to approximately 39 people. డ్రై రేషన్ అవసరం. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_042",
+      "timestamp": "2026-10-07T09:27:46",
+      "sender": "community_906",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Sholinganallur reportకే update. ఇప్పుడు approximately 31 people. drinking water packets still needed."
+    },
+    {
+      "message_id": "2_whatsapp_noise_084",
+      "timestamp": "2026-10-07T10:28:51",
+      "sender": "volunteer_271",
+      "text": "Is the road to the airport open?"
+    },
+    {
+      "message_id": "2_whatsapp_028",
+      "timestamp": "2026-10-07T09:30:15",
+      "sender": "community_901",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Tambaram Sanatorium reportకే update. ఇప్పుడు approximately 24 people. fire tender still needed."
+    },
+    {
+      "message_id": "2_whatsapp_008",
+      "timestamp": "2026-10-07T09:15:57",
+      "sender": "resident_904",
+      "text": "Same incident at Ashok Nagar seventh avenue side. Count increased to approximately 7 people. మెడికల్ టీమ్ కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_054",
+      "timestamp": "2026-10-07T09:55:03",
+      "sender": "resident_534",
+      "text": "Update from near the railway-side lane: approximately 16 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_REFWD_011",
+      "timestamp": "2026-10-07T09:55:03",
+      "sender": "volunteer_523",
+      "text": "Update from near the railway-side lane: approximately 16 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_032",
+      "timestamp": "2026-10-07T09:33:46",
+      "sender": "volunteer_551",
+      "text": "Update from Kodambakkam service road: approximately 16 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_037",
+      "timestamp": "2026-10-07T09:35:12",
+      "sender": "resident_785",
+      "text": "Same incident at low-lying road off OMR. Count increased to approximately 31 people. తాగునీటి ప్యాకెట్లు కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_noise_085",
+      "timestamp": "2026-10-07T10:25:36",
+      "sender": "local_admin",
+      "text": "What time will electricity return?"
+    },
+    {
+      "message_id": "2_whatsapp_noise_077",
+      "timestamp": "2026-10-07T09:58:08",
+      "sender": "local_admin",
+      "text": "Power is gone but nobody is trapped here."
+    },
+    {
+      "message_id": "2_whatsapp_052",
+      "timestamp": "2026-10-07T10:01:51",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Kotturpuram reportకే update. ఇప్పుడు approximately 11 people. rescue boat still needed."
+    },
+    {
+      "message_id": "2_whatsapp_rumor_095",
+      "timestamp": "2026-10-07T10:36:10",
+      "sender": "community_984",
+      "text": "Someone claims all metro stations are being turned into shelters."
+    },
+    {
+      "message_id": "2_whatsapp_noise_078",
+      "timestamp": "2026-10-07T10:21:52",
+      "sender": "local_admin",
+      "text": "What time will electricity return?"
+    },
+    {
+      "message_id": "2_whatsapp_noise_088",
+      "timestamp": "2026-10-07T09:44:48",
+      "sender": "volunteer_360",
+      "text": "Power cut again in my street. Does anyone know restoration time?"
+    },
+    {
+      "message_id": "2_whatsapp_007",
+      "timestamp": "2026-10-07T09:14:30",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Ashok Nagar reportకే update. ఇప్పుడు approximately 7 people. medical assistance / insulin still needed."
+    },
+    {
+      "message_id": "2_whatsapp_malformed_106",
+      "timestamp": null,
+      "sender": "local_admin",
+      "text": "???? ??? ?????"
+    },
+    {
+      "message_id": "2_whatsapp_rumor_099",
+      "timestamp": "2026-10-07T10:02:16",
+      "sender": "volunteer_509",
+      "text": "FORWARDED: Chennai will receive another 500mm rain exactly at midnight."
+    },
+    {
+      "message_id": "2_whatsapp_REFWD_008",
+      "timestamp": "2026-10-07T09:22:30",
+      "sender": "local_admin",
+      "text": "Same incident at Ashok Nagar seventh avenue side. Count increased to approximately 7 people. మెడికల్ టీమ్ కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_noise_090",
+      "timestamp": "2026-10-07T10:19:43",
+      "sender": "local_admin",
+      "text": "Power cut again in my street. Does anyone know restoration time?"
+    },
+    {
+      "message_id": "2_whatsapp_noise_093",
+      "timestamp": "2026-10-07T10:25:08",
+      "sender": "volunteer_882",
+      "text": "Can somebody send the current rain forecast?"
+    },
+    {
+      "message_id": "2_whatsapp_026",
+      "timestamp": "2026-10-07T09:22:30",
+      "sender": "volunteer_936",
+      "text": "Same incident at Ashok Nagar seventh avenue side. Count increased to approximately 7 people. మెడికల్ టీమ్ కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_023",
+      "timestamp": "2026-10-07T09:22:28",
+      "sender": "volunteer_474",
+      "text": "Same incident at near the railway-side lane. Count increased to approximately 16 people. మంటలు ఎక్కువగా ఉన్నాయి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_058",
+      "timestamp": "2026-10-07T09:40:24",
+      "sender": "local_admin",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Puzhuthivakkam reportకే update. ఇప్పుడు approximately 39 people. food packets / dry ration still needed."
+    },
+    {
+      "message_id": "2_whatsapp_062",
+      "timestamp": "2026-10-07T09:37:27",
+      "sender": "local_admin",
+      "text": "Update from behind the main beach road: approximately 10 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_024",
+      "timestamp": "2026-10-07T09:26:52",
+      "sender": "resident_902",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Besant Nagar reportకే update. ఇప్పుడు approximately 10 people. rescue boat still needed."
+    },
+    {
+      "message_id": "2_whatsapp_046",
+      "timestamp": "2026-10-07T09:29:30",
+      "sender": "volunteer_830",
+      "text": "Same incident at Chromepet station side road. Count increased to approximately 17 people. ఫైర్ టెండర్ వెంటనే కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_001",
+      "timestamp": "2026-10-07T09:10:00",
+      "sender": "local_admin",
+      "text": "Update from behind the main beach road: approximately 10 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_014",
+      "timestamp": "2026-10-07T09:22:34",
+      "sender": "resident_733",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Nanganallur reportకే update. ఇప్పుడు approximately 5 people. medical assistance / insulin still needed."
+    },
+    {
+      "message_id": "2_whatsapp_rumor_096",
+      "timestamp": "2026-10-07T09:48:00",
+      "sender": "local_admin",
+      "text": "Forwarded: every school in Chennai is closed for a full week."
+    },
+    {
+      "message_id": "2_whatsapp_noise_089",
+      "timestamp": "2026-10-07T10:08:40",
+      "sender": "local_admin",
+      "text": "Is the market near Velachery open?"
+    },
+    {
+      "message_id": "2_whatsapp_021",
+      "timestamp": "2026-10-07T09:26:00",
+      "sender": "local_admin",
+      "text": "Same incident at Kodambakkam service road. Count increased to approximately 16 people. ఫైర్ సర్వీస్ పంపండి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_015",
+      "timestamp": "2026-10-07T09:22:50",
+      "sender": "volunteer_629",
+      "text": "Same incident at low-lying road off OMR. Count increased to approximately 31 people. water packets పంపండి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_noise_075",
+      "timestamp": "2026-10-07T09:47:00",
+      "sender": "volunteer_861",
+      "text": "Traffic is very slow near Saidapet."
+    },
+    {
+      "message_id": "2_whatsapp_040",
+      "timestamp": "2026-10-07T09:39:15",
+      "sender": "community_742",
+      "text": "Update from near the Medavakkam water tank: approximately 13 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_064",
+      "timestamp": "2026-10-07T09:44:39",
+      "sender": "resident_156",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Nanganallur reportకే update. ఇప్పుడు approximately 5 people. medical assistance / insulin still needed."
+    },
+    {
+      "message_id": "2_whatsapp_malformed_103",
+      "timestamp": null,
+      "sender": "resident_398",
+      "text": ""
+    },
+    {
+      "message_id": "2_whatsapp_005",
+      "timestamp": "2026-10-07T09:11:48",
+      "sender": "resident_722",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Puzhuthivakkam reportకే update. ఇప్పుడు approximately 39 people. food packets / dry ration still needed."
+    },
+    {
+      "message_id": "2_whatsapp_063",
+      "timestamp": "2026-10-07T09:38:56",
+      "sender": "local_admin",
+      "text": "Same incident at Puzhuthivakkam colony road. Count increased to approximately 39 people. తినడానికి ready food కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_036",
+      "timestamp": "2026-10-07T09:30:25",
+      "sender": "volunteer_695",
+      "text": "Update from Kotturpuram low-lying lane: approximately 11 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_009",
+      "timestamp": "2026-10-07T09:18:08",
+      "sender": "resident_138",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Thoraipakkam reportకే update. ఇప్పుడు approximately 32 people. drinking water packets still needed."
+    },
+    {
+      "message_id": "2_whatsapp_noise_073",
+      "timestamp": "2026-10-07T09:47:12",
+      "sender": "resident_638",
+      "text": "Is internet service down in this area?"
+    },
+    {
+      "message_id": "2_whatsapp_025",
+      "timestamp": "2026-10-07T09:23:36",
+      "sender": "volunteer_972",
+      "text": "Update from low-lying colony road: approximately 48 people. Situation is getting worse. Keep the incident active."
+    },
+    {
+      "message_id": "2_whatsapp_057",
+      "timestamp": "2026-10-07T09:34:16",
+      "sender": "volunteer_833",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Kotturpuram reportకే update. ఇప్పుడు approximately 11 people. rescue boat still needed."
+    },
+    {
+      "message_id": "2_whatsapp_047",
+      "timestamp": "2026-10-07T09:33:00",
+      "sender": "volunteer_772",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Kodambakkam reportకే update. ఇప్పుడు approximately 16 people. fire tender still needed."
+    },
+    {
+      "message_id": "2_whatsapp_018",
+      "timestamp": "2026-10-07T09:18:30",
+      "sender": "community_724",
+      "text": "Same incident at Velachery MRTS west gate. Count increased to approximately 9 people. diabetic patientకి medical help కావాలి. Please attach this to the previous report."
+    },
+    {
+      "message_id": "2_whatsapp_048",
+      "timestamp": "2026-10-07T09:44:28",
+      "sender": "volunteer_496",
+      "text": "అన్నా ఇది కొత్త location కాదు. ముందు ఇచ్చిన Thoraipakkam reportకే update. ఇప్పుడు approximately 32 people. drinking water packets still needed."
+    },
+    {
+      "message_id": "2_whatsapp_010",
+      "timestamp": "2026-10-07T09:15:15",
+      "sender": "local_admin",
+      "text": "Same incident at near the railway crossing. Count increased to approximately 17 people. ఫైర్ టెండర్ వెంటనే కావాలి. Please attach this to the previous report."
+    }
+  ]
+}

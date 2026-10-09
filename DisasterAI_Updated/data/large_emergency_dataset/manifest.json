@@ -1,0 +1,39 @@
+{
+  "dataset": "AI Emergency Resource Coordinator",
+  "version": "LARGE-4-STAGE-1.0",
+  "city": "Chennai, Tamil Nadu, India",
+  "stages": 4,
+  "audio_per_stage": 14,
+  "whatsapp_records_per_stage": 120,
+  "twitter_rows_per_stage": 120,
+  "sms_rows_per_stage": 120,
+  "total_audio_files": 56,
+  "total_text_records": 1440,
+  "images": 0,
+  "organizer_only_folder": false,
+  "incident_count_hidden": 24,
+  "language_profile": [
+    "Telugu",
+    "Telugu-English",
+    "English",
+    "Hinglish"
+  ],
+  "difficulty_features": [
+    "cross-channel duplicates",
+    "re-forward duplicates",
+    "paraphrased reports",
+    "fuzzy Indian landmarks",
+    "incomplete locations",
+    "changing people counts",
+    "urgency escalation",
+    "resolution updates",
+    "new incidents appearing in later stages",
+    "traffic noise",
+    "power-cut noise",
+    "weather noise",
+    "rumors",
+    "malformed CSV records",
+    "corrupted audio files"
+  ],
+  "release_rule": "Delete root ground_truth.json before participant release."
+}
