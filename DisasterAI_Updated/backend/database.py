@@ -2,7 +2,8 @@ import os
 from sqlalchemy import create_engine
 from sqlalchemy.orm import DeclarativeBase, sessionmaker
 
-DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./disaster.db").replace("postgres://", "postgresql://", 1)
+_raw_db_url = os.getenv("DATABASE_URL", "").strip()
+DATABASE_URL = (_raw_db_url or "sqlite:///./disaster.db").replace("postgres://", "postgresql://", 1)
 
 connect_args = {}
 if DATABASE_URL.startswith("sqlite"):
