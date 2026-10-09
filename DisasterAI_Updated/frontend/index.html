@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DisasterAI — Command & Control Incident Management</title>
+  <meta name="description" content="AI-Powered Multimodal Disaster Report Analysis, Deduplication, and Incident Management Control Room.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="dark-theme">
+  <!-- Top Navigation Header -->
+  <header class="app-header">
+    <div class="header-brand">
+      <div class="pulse-indicator"></div>
+      <div class="brand-text">
+        <h1 class="brand-title">DISASTER<span class="highlight">AI</span></h1>
+        <p class="brand-subtitle">Emergency Report Analysis & Incident Triage Command Center</p>
+      </div>
+    </div>
+    <div class="header-actions">
+      <div class="system-status-badge" id="systemStatusBadge">
+        <span class="status-dot online"></span>
+        <span id="systemStatusText">SYSTEM ACTIVE</span>
+      </div>
+      <button class="btn btn-secondary" id="btnOpenSubmitModal">+ Submit Report</button>
+      <button class="btn btn-outline" id="btnOpenCallerModal">🎙️ AI Caller Agent</button>
+      <button class="btn btn-primary" id="btnRefreshAll" title="Refresh Dashboard">⟳ Refresh</button>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="dashboard-container">
+    <!-- Live Metrics Grid -->
+    <section class="metrics-grid" aria-label="Incident and Report Statistics">
+      <div class="metric-card card-total-reports">
+        <div class="metric-icon">📊</div>
+        <div class="metric-content">
+          <span class="metric-label">Total Reports Ingested</span>
+          <h2 class="metric-value" id="valTotalReports">--</h2>
+          <span class="metric-sub" id="valSourceBreakdown">SMS: 0 | TW: 0 | AUD: 0</span>
+        </div>
+      </div>
+
+      <div class="metric-card card-emergencies">
+        <div class="metric-icon">🚨</div>
+        <div class="metric-content">
+          <span class="metric-label">Confirmed Emergencies</span>
+          <h2 class="metric-value" id="valEmergencies">--</h2>
+          <span class="metric-sub text-danger" id="valActiveUrgent">High Priority</span>
+        </div>
+      </div>
+
+      <div class="metric-card card-active-incidents">
+        <div class="metric-icon">🔥</div>
+        <div class="metric-content">
+          <span class="metric-label">Active Incidents</span>
+          <h2 class="metric-value" id="valActiveIncidents">--</h2>
+          <span class="metric-sub text-warning" id="valIncidentBreakdown">In Progress / Escalating</span>
+        </div>
+      </div>
+
+      <div class="metric-card card-resolved-incidents">
+        <div class="metric-icon">✅</div>
+        <div class="metric-content">
+          <span class="metric-label">Resolved Incidents</span>
+          <h2 class="metric-value" id="valResolvedIncidents">--</h2>
+          <span class="metric-sub text-success">Stabilized Areas</span>
+        </div>
+      </div>
+
+      <div class="metric-card card-needs-review">
+        <div class="metric-icon">👁️</div>
+        <div class="metric-content">
+          <span class="metric-label">Pending Human Review</span>
+          <h2 class="metric-value" id="valNeedsReview">--</h2>
+          <span class="metric-sub text-muted">Ambiguous or Low Confidence</span>
+        </div>
+      </div>
+
+      <div class="metric-card card-noise">
+        <div class="metric-icon">🛡️</div>
+        <div class="metric-content">
+          <span class="metric-label">Filtered Noise / Non-Emergency</span>
+          <h2 class="metric-value" id="valNoise">--</h2>
+          <span class="metric-sub text-muted">Rumors & General Inquiries</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Stage Ingestion Control Center -->
+    <section class="control-panel-section glass-panel">
+      <div class="panel-header">
+        <div class="panel-title-group">
+          <h3>⚡ Dataset Stage Ingestion Controller</h3>
+          <p class="panel-caption">Automated multimodal stream discovery (SMS, Twitter, WhatsApp, Audio Calls) with idempotent deduplication</p>
+        </div>
+      </div>
+
+      <div class="stage-controller-bar">
+        <div class="control-field">
+          <label for="selectStage">Emergency Stage</label>
+          <select id="selectStage" class="form-select">
+            <option value="stage1">Stage 1 — Initial Emergency Outbreak</option>
+            <option value="stage2">Stage 2 — Corroboration & Escalation</option>
+            <option value="stage3">Stage 3 — Rescue In Progress & Resolution</option>
+            <option value="stage4">Stage 4 — Final Recovery & Stabilization</option>
+          </select>
+        </div>
+
+        <div class="control-field">
+          <label for="selectVariant">Dataset Variant</label>
+          <select id="selectVariant" class="form-select">
+            <option value="large">Large Dataset (Extracted Stage 2)</option>
+            <option value="standard">Standard Dataset (Stage 1 Archive)</option>
+          </select>
+        </div>
+
+        <div class="control-action">
+          <button class="btn btn-action" id="btnProcessStage">
+            <span class="btn-spinner hidden" id="stageSpinner"></span>
+            <span id="btnProcessText">Process Stage Multimodal Ingestion</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Ingestion Results Display Banner -->
+      <div class="ingestion-feedback hidden" id="ingestionFeedback">
+        <div class="feedback-header">
+          <span class="feedback-badge" id="feedbackBadge">STAGE 1 PROCESSED</span>
+          <span class="feedback-timer" id="feedbackPath">data/...</span>
+        </div>
+        <div class="feedback-stats" id="feedbackStats">
+          <!-- Dynamically populated stats -->
+        </div>
+      </div>
+
+      <!-- Stage Results Viewer (always accessible) -->
+      <div class="stage-results-viewer">
+        <div class="stage-results-selector">
+          <label for="stageResultsSelect">📊 View Stage Results:</label>
+          <select id="stageResultsSelect" class="form-select-sm">
+            <option value="">— Select a Stage —</option>
+            <option value="stage1">Stage 1 — Initial Emergency Outbreak</option>
+            <option value="stage2">Stage 2 — Corroboration &amp; Escalation</option>
+            <option value="stage3">Stage 3 — Rescue In Progress &amp; Resolution</option>
+            <option value="stage4">Stage 4 — Final Recovery &amp; Stabilization</option>
+          </select>
+          <button class="btn btn-outline" id="btnViewStageResults">View Stage Reports &amp; Stats</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Stage Results Panel (hidden until activated) -->
+    <section class="stage-results-panel glass-panel hidden" id="stageResultsPanel">
+      <div class="panel-header">
+        <div class="panel-title-group">
+          <h3 id="stageResultsTitle">📋 Stage Results</h3>
+          <p class="panel-caption">Reports ingested from the selected dataset stage, with AI analysis and incident linkage</p>
+        </div>
+        <button class="btn btn-sm btn-secondary" id="btnCloseStageResults">✕ Close</button>
+      </div>
+      <div id="stageResultsLoading" class="stage-loading hidden">⏳ Loading stage data...</div>
+      <div id="stageResultsSummary"></div>
+      <div class="stage-reports-list" id="stageResultsReports"></div>
+    </section>
+
+    <!-- Main Workspace Split: Incidents & Reports Feed -->
+    <div class="workspace-grid">
+      <!-- Active Incidents Column -->
+      <section class="incidents-section glass-panel">
+        <div class="section-toolbar">
+          <div class="toolbar-title-box">
+            <h3>Active Incident Clusters</h3>
+            <span class="badge" id="incidentCountBadge">0</span>
+          </div>
+          <div class="toolbar-filters">
+            <select id="filterIncidentStatus" class="form-select-sm">
+              <option value="">All Statuses</option>
+              <option value="ACTIVE">ACTIVE</option>
+              <option value="ESCALATING">ESCALATING</option>
+              <option value="RESCUE_IN_PROGRESS">RESCUE IN PROGRESS</option>
+              <option value="RESOLVED">RESOLVED</option>
+            </select>
+            <input type="text" id="searchIncidents" class="form-input-sm" placeholder="Search incidents...">
+          </div>
+        </div>
+
+        <div class="incidents-list-container" id="incidentsList">
+          <div class="empty-state">Loading active incidents...</div>
+        </div>
+      </section>
+
+      <!-- Ingested Reports Feed Column -->
+      <section class="reports-section glass-panel">
+        <div class="section-toolbar">
+          <div class="toolbar-title-box">
+            <h3>Disaster Reports Stream</h3>
+            <span class="badge badge-accent" id="reportCountBadge">0</span>
+          </div>
+          <div class="toolbar-filters">
+            <select id="filterReportStage" class="form-select-sm">
+              <option value="">All Stages</option>
+              <option value="stage1">Stage 1</option>
+              <option value="stage2">Stage 2</option>
+              <option value="stage3">Stage 3</option>
+              <option value="stage4">Stage 4</option>
+            </select>
+            <select id="filterReportSource" class="form-select-sm">
+              <option value="">All Sources</option>
+              <option value="SMS">SMS</option>
+              <option value="TWITTER">Twitter</option>
+              <option value="WHATSAPP">WhatsApp</option>
+              <option value="AUDIO">Audio Call</option>
+              <option value="AI_CALLER">AI Caller</option>
+              <option value="API">API</option>
+            </select>
+            <select id="filterReportEmergency" class="form-select-sm">
+              <option value="">All Triage</option>
+              <option value="emergency">Emergencies</option>
+              <option value="noise">Noise / Informational</option>
+              <option value="review">Needs Review</option>
+            </select>
+            <input type="text" id="searchReports" class="form-input-sm" placeholder="Search message text...">
+          </div>
+        </div>
+
+        <div class="reports-list-container" id="reportsList">
+          <div class="empty-state">Loading incoming stream reports...</div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- Modal: Incident Details & Associated Reports -->
+  <div class="modal-backdrop hidden" id="incidentModal">
+    <div class="modal-dialog modal-large">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <h3 id="modalIncidentTitle">Incident Title</h3>
+          <span class="badge" id="modalIncidentUrgency">URGENCY</span>
+        </div>
+        <button class="modal-close" id="btnCloseIncidentModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="incident-meta-grid">
+          <div class="meta-item">
+            <span class="meta-label">Incident ID</span>
+            <span class="meta-val" id="modalIncidentId">#0</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Location</span>
+            <span class="meta-val" id="modalIncidentLocation">--</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Current Status</span>
+            <span class="meta-val" id="modalIncidentStatus">--</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">People Affected</span>
+            <span class="meta-val" id="modalIncidentPeople">0</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Source Count</span>
+            <span class="meta-val" id="modalIncidentSources">0 reports</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">AI Confidence</span>
+            <span class="meta-val" id="modalIncidentConfidence">--</span>
+          </div>
+        </div>
+
+        <div class="incident-status-updater">
+          <label>Update Incident Status:</label>
+          <div class="status-btn-group">
+            <button class="btn btn-sm btn-status" data-status="ACTIVE">ACTIVE</button>
+            <button class="btn btn-sm btn-status" data-status="ESCALATING">ESCALATING</button>
+            <button class="btn btn-sm btn-status" data-status="RESCUE_IN_PROGRESS">RESCUE IN PROGRESS</button>
+            <button class="btn btn-sm btn-status" data-status="RESOLVED">RESOLVED</button>
+          </div>
+        </div>
+
+        <h4 class="subhead">Associated Emergency Reports (<span id="modalLinkedCount">0</span>)</h4>
+        <div class="modal-reports-list" id="modalLinkedReports">
+          <!-- Associated reports rendered here -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Manual Report Submission -->
+  <div class="modal-backdrop hidden" id="submitReportModal">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h3>Submit Emergency Report</h3>
+        <button class="modal-close" id="btnCloseSubmitModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <label for="inputSource">Report Source</label>
+          <select id="inputSource" class="form-select">
+            <option value="API">Control Room Operator / API</option>
+            <option value="SMS">SMS Helpline</option>
+            <option value="TWITTER">Social Media Alert</option>
+            <option value="AUDIO">Emergency Call Transcript</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="inputSourceId">Source Reference / ID (Optional)</label>
+          <input type="text" id="inputSourceId" class="form-input" placeholder="e.g. manual_ref_101">
+        </div>
+        <div class="form-group">
+          <label for="inputMessage">Message / Situation Report</label>
+          <textarea id="inputMessage" class="form-textarea" rows="4" placeholder="e.g. 5 elderly residents trapped near Medavakkam water tank due to rising flood waters."></textarea>
+        </div>
+        <div class="modal-actions">
+          <button class="btn btn-secondary" id="btnCancelSubmit">Cancel</button>
+          <button class="btn btn-primary" id="btnSubmitReport">Submit & Analyze Report</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: AI Caller Agent Simulator -->
+  <div class="modal-backdrop hidden" id="callerModal">
+    <div class="modal-dialog modal-large">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <h3>🎙️ AI Emergency Intake Caller Agent</h3>
+          <span class="badge badge-accent">Interactive Voice/Text Triage</span>
+        </div>
+        <button class="modal-close" id="btnCloseCallerModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="disclaimer-alert">
+          <strong>Notice:</strong> This is an AI-assisted automated triage intake simulation. It extracts location, urgency, and affected people before queuing reports directly into the control-room pipeline. Say "operator" at any time for human escalation.
+        </div>
+        <div class="caller-chat-window" id="callerChatWindow">
+          <!-- Conversation bubbles rendered here -->
+        </div>
+        <div class="caller-input-bar">
+          <input type="text" id="callerInputText" class="form-input" placeholder="Type what caller says (e.g. 'We are trapped in flood near Velachery MRTS west gate')...">
+          <button class="btn btn-primary" id="btnSendCallerInput">Send</button>
+          <button class="btn btn-danger" id="btnEscalateCaller">Escalate to Human</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="app-footer">
+    <p>DisasterAI © 2026 — Built for Rapid Emergency Coordination, Resource Allocation, and Life-Saving Triage.</p>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
