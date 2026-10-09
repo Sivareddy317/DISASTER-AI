@@ -8,6 +8,11 @@ const API_BASE = window.location.origin.includes("localhost") ||
   ? "http://localhost:8000"
   : window.location.origin;
 
+// API key — fetched from backend config endpoint at startup
+let _apiKey = "";
+fetch(`${API_BASE}/api/config`).then(r => r.json()).then(d => { if (d.api_key) _apiKey = d.api_key; }).catch(() => {});
+const authHeaders = () => _apiKey ? { "X-API-Key": _apiKey } : {};
+
 // Version 2.1 — Stage-Wise Results + Live Refresh
 
 let currentSelectedIncidentId = null;
@@ -264,7 +269,8 @@ async function handleProcessStage() {
 
   try {
     const res = await fetch(`${API_BASE}/api/dataset/stage/${stage}?variant=${variant}`, {
-      method: "POST"
+      method: "POST",
+      headers: { ...authHeaders() }
     });
 
     const data = await res.json();
@@ -525,7 +531,7 @@ async function handleSubmitReport() {
   try {
     const res = await fetch(`${API_BASE}/api/reports`, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: { "Content-Type": "application/json", ...authHeaders() },
       body: JSON.stringify({ source, source_id: sourceId, message })
     });
 
@@ -553,7 +559,7 @@ async function openCallerModal() {
   try {
     const res = await fetch(`${API_BASE}/api/caller/session`, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: { "Content-Type": "application/json", ...authHeaders() },
       body: JSON.stringify({ caller_phone: "+91 98765 43210" })
     });
     const data = await res.json();
@@ -586,7 +592,7 @@ async function sendCallerInput(textOverride) {
   try {
     const res = await fetch(`${API_BASE}/api/caller/interact`, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: { "Content-Type": "application/json", ...authHeaders() },
       body: JSON.stringify({ session_id: activeCallerSessionId, user_input: text })
     });
     const data = await res.json();

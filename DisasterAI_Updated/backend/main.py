@@ -130,6 +130,12 @@ def health(db: Session = Depends(get_db)):
     }
 
 
+@app.get("/api/config", include_in_schema=False)
+def get_frontend_config():
+    """Returns the API key to the same-origin frontend."""
+    return {"api_key": APP_API_KEY}
+
+
 # =========================================================
 # DASHBOARD METRICS
 # =========================================================
